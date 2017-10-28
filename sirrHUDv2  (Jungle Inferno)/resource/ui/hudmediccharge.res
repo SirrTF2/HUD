@@ -74,7 +74,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"defaultbgcolor_override"	"ahudBlack"
+		"defaultbgcolor_override"	"sirrBlack"
 		"PaintBackgroundType"	"0"
         "textinsety" 	"99"
 	}

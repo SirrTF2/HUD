@@ -119,8 +119,8 @@
 		"armedBgColor_override"	"0 0 0 0"
 		"defaultBgColor_override"	"0 0 0 0"
 
-		"defaultFgColor_override"	"ahudWhite"
-		"armedFgColor_override"	"ahudYellow"
+		"defaultFgColor_override"	"sirrWhite"
+		"armedFgColor_override"	"sirrYellow"
 	}
 
 	"ReturnButton"
@@ -151,8 +151,8 @@
 		"armedBgColor_override"	"0 0 0 0"
 		"defaultBgColor_override"	"0 0 0 0"
 
-		"defaultFgColor_override"	"ahudWhite"
-		"armedFgColor_override"	"ahudYellow"
+		"defaultFgColor_override"	"sirrWhite"
+		"armedFgColor_override"	"sirrYellow"
 	}
 	
 	"BGPanel"
@@ -167,7 +167,7 @@
 		"visible"		"1"
 		"proportionaltoparent"	"1"
 
-		"border"		"ahudPanelBorder"
-		"bgcolor_override"	"ahudDarkGrey"
+		"border"		"sirrPanelBorder"
+		"bgcolor_override"	"sirrDarkGrey"
 	}
 }

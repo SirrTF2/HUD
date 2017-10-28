@@ -49,7 +49,7 @@
 			"tall"			"f5"
 			"visible"		"1"
 			"PaintBackgroundType"	"0"
-			"border"		"ahudPanelBorder"
+			"border"		"sirrPanelBorder"
 			"bgcolor_override"	"25 25 25 225"
 			"proportionaltoparent"	"1"
 			"pinCorner"		"2"

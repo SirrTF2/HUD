@@ -53,7 +53,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fillcolor"	"ahudBlue"
+			"fillcolor"	"sirrBlue"
 		}
 		"BLUBG2"
 		{
@@ -68,7 +68,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fillcolor"	"ahudDarkBlue"
+			"fillcolor"	"sirrDarkBlue"
 		}
 		"REDBG"
 		{
@@ -83,7 +83,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fillcolor"	"ahudRed"
+			"fillcolor"	"sirrRed"
 		}
 		"REDBG2"
 		{
@@ -98,14 +98,14 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fillcolor"	"ahudDarkRed"
+			"fillcolor"	"sirrDarkRed"
 		}
 		"BlueTeamLabel"
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"BlueTeamLabel"
 			"font"			"NormalCode20"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			"labelText"		"%blueteamname%"
 			"textAlignment"		"west"
 			"xpos"			"5"
@@ -123,7 +123,7 @@
 			"ControlName"		"CExLabel"
 			"fieldName"		"BlueTeamScore"
 			"font"			"NormalCode34"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			"labelText"		"%blueteamscore%"
 			"textAlignment"		"east"
 			"xpos"			"53"
@@ -167,7 +167,7 @@
 			"enabled"		"1"
 			"image"			""
 			"scaleImage"	"1"	
-			"color_outline"	"ahudDarkBlue"
+			"color_outline"	"sirrDarkBlue"
 		}
 		"BlueLeaderAvatarBG"
 		{
@@ -180,14 +180,14 @@
 			"tall"			"39"
 			"visible"		"1"
 			"PaintBackgroundType"	"0"
-			"bgcolor_override"	"ahudDarkBlue"
+			"bgcolor_override"	"sirrDarkBlue"
 		}
 		"RedTeamLabel"
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"RedTeamLabel"
 			"font"			"NormalCode20"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			"labelText"		"%redteamname%"
 			"textAlignment"		"east"
 			"xpos"			"138"
@@ -205,7 +205,7 @@
 			"ControlName"		"CExLabel"
 			"fieldName"		"RedTeamScore"
 			"font"			"NormalCode34"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			"labelText"		"%redteamscore%"
 			"textAlignment"		"west"
 			"xpos"			"105"
@@ -249,7 +249,7 @@
 			"enabled"		"1"
 			"image"			""
 			"scaleImage"	"1"	
-			"color_outline"	"ahudDarkRed"
+			"color_outline"	"sirrDarkRed"
 		}
 		"RedLeaderAvatarBG"
 		{
@@ -262,7 +262,7 @@
 			"tall"			"39"
 			"visible"		"1"
 			"PaintBackgroundType"	"0"
-			"bgcolor_override"	"ahudDarkRed"
+			"bgcolor_override"	"sirrDarkRed"
 		}
 	}
 
@@ -301,7 +301,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"WinningTeamLabel"
 		"font"			"NormalCode10"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"sirrWhite"
 		"xpos"			"10"
 		"ypos"			"43"
 		"zpos"			"1"
@@ -341,7 +341,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"AdvancingTeamLabel"
 		"font"			"NormalCode10"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"sirrWhite"
 		"xpos"			"10"
 		"ypos"			"43"
 		"zpos"			"1"
@@ -400,7 +400,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"DetailsLabel"
 		"font"			"NormalCode9"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"sirrWhite"
 		"xpos"			"10"
 		"ypos"			"53"
 		"zpos"			"1"

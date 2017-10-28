@@ -108,7 +108,7 @@
 			"tall"			"p1"
 			"visible"		"1"
 			"PaintBackgroundType"	"0"
-			"border"		"ahudPanelBorder"
+			"border"		"sirrPanelBorder"
 			"bgcolor_override"	"25 25 25 200"
 			"proportionaltoparent"	"1"
 
@@ -155,7 +155,7 @@
 					"visible"		"1"
 					"proportionaltoparent"	"1"
 					"border"		"NoBorder"
-					"bgcolor_override"	"ahudBlack"
+					"bgcolor_override"	"sirrBlack"
 				}
 
 				"SortArrow"
@@ -200,7 +200,7 @@
 					"textinsetx"		"15"
 
 					"defaultFgColor_override" "TanDark"
-					"armedFgColor_override"	"ahudYellow"
+					"armedFgColor_override"	"sirrYellow"
 					"selectedFgColor_override" "TanLight"
 
 					"image_selectedcolor"	"255 255 255 255"
@@ -234,7 +234,7 @@
 					"textinsetx"		"15"
 
 					"defaultFgColor_override" "TanDark"
-					"armedFgColor_override"	"ahudYellow"
+					"armedFgColor_override"	"sirrYellow"
 					"selectedFgColor_override" "TanLight"
 
 					"image_selectedcolor"	"255 255 255 255"
@@ -268,7 +268,7 @@
 					"textinsetx"		"15"
 
 					"defaultFgColor_override" "TanDark"
-					"armedFgColor_override"	"ahudYellow"
+					"armedFgColor_override"	"sirrYellow"
 					"selectedFgColor_override" "TanLight"
 
 					"image_selectedcolor"	"255 255 255 255"
@@ -300,7 +300,7 @@
 					"textAlignment"		"west"
 
 					"defaultFgColor_override" "TanDark"
-					"armedFgColor_override"	"ahudYellow"
+					"armedFgColor_override"	"sirrYellow"
 					"selectedFgColor_override" "TanLight"
 
 					"image_selectedcolor"	"255 255 255 255"

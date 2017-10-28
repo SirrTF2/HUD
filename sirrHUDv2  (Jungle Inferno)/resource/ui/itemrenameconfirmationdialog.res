@@ -9,7 +9,7 @@
 		"ypos"					"105"
 		"wide"					"400"
 		"tall"					"240"
-		"bgcolor_override"		"ahudDarkerGrey"
+		"bgcolor_override"		"sirrDarkerGrey"
 		"paintbackgroundtype"	"0"
 		"settitlebarvisible"	"0"
 		"border"				"HoAssBorder"

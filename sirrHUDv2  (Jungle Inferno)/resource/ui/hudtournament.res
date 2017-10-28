@@ -139,7 +139,7 @@
 				"visible"		"1"
 				"labelText"		"%playername%"
 				"textAlignment"	"center"
-				"fgcolor"		"ahudWhite"
+				"fgcolor"		"sirrWhite"
 				
 				if_competitive
 				{
@@ -482,7 +482,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		//"image"			"../HUD/tournament_panel_blu"
-		"fillcolor"	"ahudBlue"
+		"fillcolor"	"sirrBlue"
 
 		"src_corner_height"	"15"				// pixels inside the image
 		"src_corner_width"	"15"
@@ -519,7 +519,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		//"image"			"../HUD/tournament_panel_blu"
-		"fillcolor"	"ahudDarkBlue"
+		"fillcolor"	"sirrDarkBlue"
 
 		"src_corner_height"	"15"				// pixels inside the image
 		"src_corner_width"	"15"
@@ -623,7 +623,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		//"image"			"../HUD/tournament_panel_red"
-		"fillcolor"	"ahudRed"
+		"fillcolor"	"sirrRed"
 
 		"src_corner_height"	"15"				// pixels inside the image
 		"src_corner_width"	"15"
@@ -660,7 +660,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		//"image"			"../HUD/tournament_panel_red"
-		"fillcolor"	"ahudDarkRed"
+		"fillcolor"	"sirrDarkRed"
 
 		"src_corner_height"	"15"				// pixels inside the image
 		"src_corner_width"	"15"
@@ -914,7 +914,7 @@
 		"wrap"			"0"
 		"labelText"		"%tournamentstatelabel%"
 		"textAlignment"		"center"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"sirrWhite"
 		"proportionaltoparent"	"1"
 
 		if_mvm

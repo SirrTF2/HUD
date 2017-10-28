@@ -74,7 +74,7 @@
 		"tall"			"20"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"ahudYellow"
+		"fillcolor"		"sirrYellow"
 	}	
 	
 	"TeamBG2"
@@ -88,7 +88,7 @@
 		"tall"			"21"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"ahudDarkYellow"
+		"fillcolor"		"sirrDarkYellow"
 	}
 	
 	"teambuttonBG"
@@ -128,9 +128,9 @@
 		"associated_model"	"autodoor"
 		"font"			"NormalCode18"
 		"defaultFgColor_override" 	"255 255 255 128"
-		"armedFgColor_override"		"ahudWhite"
+		"armedFgColor_override"		"sirrWhite"
 		"depressedFgColor_override" "255 255 255 128"
-		"selectedFgColor_override" 	"ahudWhite"
+		"selectedFgColor_override" 	"sirrWhite"
 	}
 	
 	"teambutton3"
@@ -156,9 +156,9 @@
 		"associated_model"	"spectate"	
 		"font"			"NormalCode12"
 		"defaultFgColor_override" 	"TanDark"
-		"armedFgColor_override"		"ahudWhite"
+		"armedFgColor_override"		"sirrWhite"
 		"depressedFgColor_override" "TanDark"
-		"selectedFgColor_override" 	"ahudWhite"
+		"selectedFgColor_override" 	"sirrWhite"
 	}
 	
 	"CancelButton" [$WIN32] 

@@ -15,7 +15,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"settitlebarvisible"	"0"
-		"bgcolor_override"	"ahudDarkGrey"
+		"bgcolor_override"	"sirrDarkGrey"
 		
 		"item_ypos"		"60"
 		"item_ydelta"	"80"
@@ -160,7 +160,7 @@
 		"editable"		"1"
 		"unicode"		"1"
 		"fgcolor_override"	"TanLight"
-		"bgcolor_override"	"ahudBlack"
+		"bgcolor_override"	"sirrBlack"
 		"paintbackgroundtype" "2"
 		"font"		"NormalCode10"
 	}

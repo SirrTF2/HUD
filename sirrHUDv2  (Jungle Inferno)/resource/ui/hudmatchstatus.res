@@ -257,7 +257,7 @@
 			"ControlName"		"CExLabel"
 			"fieldName"		"TimePanelValue"
 			"font"			"NormalCode14"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			"xpos"			"27"
 			"ypos"			"0"
 			"zpos"			"3"
@@ -570,8 +570,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"border"		"ahudDarkBlueTeamBorder"
-			"bgcolor_override"	"ahudBlue"
+			"border"		"sirrDarkBlueTeamBorder"
+			"bgcolor_override"	"sirrBlue"
 		}
 		"BlueTeamImage"
 		{
@@ -631,7 +631,7 @@
 			"tall"			"39"
 			"visible"		"1"
 			"PaintBackgroundType"	"0"
-			"bgcolor_override"	"ahudDarkBlue"
+			"bgcolor_override"	"sirrDarkBlue"
 		}
 		"BluePlayerList"
 		{
@@ -709,8 +709,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"border"		"ahudDarkRedTeamBorder"
-			"bgcolor_override"	"ahudRed"
+			"border"		"sirrDarkRedTeamBorder"
+			"bgcolor_override"	"sirrRed"
 		}
 		"RedTeamImage"
 		{
@@ -770,7 +770,7 @@
 			"tall"			"39"
 			"visible"		"1"
 			"PaintBackgroundType"	"0"
-			"bgcolor_override"	"ahudDarkRed"
+			"bgcolor_override"	"sirrDarkRed"
 		}
 		"RedPlayerList"
 		{

@@ -71,7 +71,7 @@
 		"wide"			"40"
 		"tall"			"9"
 		"proportionaltoparent"	"1"
-		"fillcolor"				"ahudBlue"
+		"fillcolor"				"sirrBlue"
 		"scaleimage"			"1"
 	}
 	"BlueTeamBackground2"
@@ -84,7 +84,7 @@
 		"wide"			"40"
 		"tall"			"9"
 		"proportionaltoparent"	"1"
-		"fillcolor"				"ahudDarkBlue"
+		"fillcolor"				"sirrDarkBlue"
 		"scaleimage"			"1"
 	}
 	"RedTeamBackground"
@@ -97,7 +97,7 @@
 		"wide"			"40"
 		"tall"			"9"
 		"proportionaltoparent"	"1"
-		"fillcolor"				"ahudRed"
+		"fillcolor"				"sirrRed"
 		"scaleimage"			"1"
 	}
 	"RedTeamBackground2"
@@ -110,7 +110,7 @@
 		"wide"			"40"
 		"tall"			"9"
 		"proportionaltoparent"	"1"
-		"fillcolor"				"ahudDarkRed"
+		"fillcolor"				"sirrDarkRed"
 		"scaleimage"			"1"
 	}
 }

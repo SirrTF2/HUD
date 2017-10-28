@@ -133,7 +133,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fillcolor"		"ahudWhite"
+			"fillcolor"		"sirrWhite"
 		}
 	
 		"InnerPanelRim"
@@ -151,7 +151,7 @@
 			"enabled"		"0"
 			
 			"PaintBackgroundType" "0"
-			"bgcolor_override"	"ahudWhite"
+			"bgcolor_override"	"sirrWhite"
 		}
 		"TopBorder"
 		{
@@ -168,7 +168,7 @@
 			"enabled"		"1"
 			
 			"PaintBackgroundType" "0"
-			"bgcolor_override"	"ahudWhite"
+			"bgcolor_override"	"sirrWhite"
 		}
 		"BottomBorder"
 		{
@@ -185,7 +185,7 @@
 			"enabled"		"0"
 			
 			"PaintBackgroundType" "0"
-			"bgcolor_override"	"ahudWhite"
+			"bgcolor_override"	"sirrWhite"
 		}
 		"LeftBorder"
 		{
@@ -202,7 +202,7 @@
 			"enabled"		"0"
 			
 			"PaintBackgroundType" "0"
-			"bgcolor_override"	"ahudWhite"
+			"bgcolor_override"	"sirrWhite"
 		}
 		"RightBorder"
 		{
@@ -219,7 +219,7 @@
 			"enabled"		"0"
 			
 			"PaintBackgroundType" "0"
-			"bgcolor_override"	"ahudWhite"
+			"bgcolor_override"	"sirrWhite"
 		}		
 		"InnerBGPanel"
 		{
@@ -233,7 +233,7 @@
 			"visible"		"0"
 			"PaintBackgroundType"	"0"
 			"border"		"HoAssBorder"
-			"bgcolor_override" "ahudDarkerGrey"
+			"bgcolor_override" "sirrDarkerGrey"
 		}
 	
 		"PlayerUpgradeButton"
@@ -309,7 +309,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"0"
-			"bgcolor_override"	"ahudWhite"
+			"bgcolor_override"	"sirrWhite"
 			"PaintBackgroundType"	"0"
 		}
 		
@@ -686,7 +686,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudBlack"
+			"fgcolor"		"sirrBlack"
 		}
 		
 		"CancelButton"
@@ -815,7 +815,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fillcolor"		"ahudWhite"
+			"fillcolor"		"sirrWhite"
 		}
 		
 		"TipText"
@@ -835,7 +835,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor"		"ahudBlack"
+			"fgcolor"		"sirrBlack"
 		}
 		
 		"NextTipButton"

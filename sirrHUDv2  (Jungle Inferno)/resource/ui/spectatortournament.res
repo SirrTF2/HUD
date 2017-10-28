@@ -61,7 +61,7 @@
 				"visible"		  "1"
 				"labelText"		"%playername%"
 				"textAlignment"	"west"
-				"fgcolor"		  "ahudWhite"
+				"fgcolor"		  "sirrWhite"
 			}
 			
 			"classimage"
@@ -296,7 +296,7 @@
 		"labelText"		"#game_respawntime_in_secs"
 		"textAlignment"		"center"
 		"font"			"NormalCode16"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"sirrWhite"
 		
 		if_mvm
 		{
@@ -318,7 +318,7 @@
 		"labelText"		"#TF_PVE_Buyback"
 		"textAlignment"	"center"
 		"font"			"NormalCode12"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"sirrWhite"
 		"wrap"			"1"
 		"centerwrap"	"1"
 	

@@ -38,25 +38,25 @@ Scheme
 		"ShadowBlack"			"7 7 7 255"
 		"HudBlack"				"0 0 0 200"
 		
-		"ahudBlue"				"72 112 125 255"
-		"ahudDarkBlue"			"46 73 82 255"
-		"ahudRed"				"158 64 61 255"
-		"ahudDarkRed"			"102 48 46 255"
+		"sirrBlue"				"72 112 125 255"
+		"sirrDarkBlue"			"46 73 82 255"
+		"sirrRed"				"158 64 61 255"
+		"sirrDarkRed"			"102 48 46 255"
 		
-		"ahudGreen"				"92 122 90 255"
-		"ahudLimeGreen"			"48 206 90 255"
-		"ahudDarkGreen"			"38 53 36 255"
-		"ahudYellow"			"169 123 53 255"
-		"ahudBrightYellow"		"218 165 32 255"
+		"sirrGreen"				"92 122 90 255"
+		"sirrLimeGreen"			"48 206 90 255"
+		"sirrDarkGreen"			"38 53 36 255"
+		"sirrYellow"			"169 123 53 255"
+		"sirrBrightYellow"		"218 165 32 255"
 		
-		"ahudWhite"				"242 242 242 255"
-		"ahudDullWhite"			"132 132 132 255"
+		"sirrWhite"				"242 242 242 255"
+		"sirrDullWhite"			"132 132 132 255"
 		
-		"ahudGrey"				"51 47 46 255"
-		"ahudDarkGrey"			"27 27 27 255"
-		"ahudDarkerGrey"		"22 22 22 255"
+		"sirrGrey"				"51 47 46 255"
+		"sirrDarkGrey"			"27 27 27 255"
+		"sirrDarkerGrey"		"22 22 22 255"
 		
-		"ahudBlack"				"17 17 17 255"
+		"sirrBlack"				"17 17 17 255"
 		
 		//---------------------------------------------
 		
@@ -127,8 +127,8 @@ Scheme
 		// training
 		"HudTrainingHint"			"212 160 23 255"
 		
-		"TanDark"				"132 132 132 255"	// ahudDullWhite
-		"TanLight"				"242 242 242 255"	// ahudWhite
+		"TanDark"				"132 132 132 255"	// sirrDullWhite
+		"TanLight"				"242 242 242 255"	// sirrWhite
 		"TanDarker"				"46 43 42 255"
 		
 		"StoreDarkTan"			"131 121 104 255"

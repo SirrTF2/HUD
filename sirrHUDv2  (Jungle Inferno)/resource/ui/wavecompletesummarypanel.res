@@ -32,8 +32,8 @@
 		"visible"		"1"
 		"PaintBackgroundType" "0"
 		"paintborder"	"1"
-		"border"		"ahudDarkRedTeamBorder"
-		"bgcolor_override"	"ahudRed"
+		"border"		"sirrDarkRedTeamBorder"
+		"bgcolor_override"	"sirrRed"
 		
 		"WaveCompleteLabelShadow"
 		{
@@ -69,7 +69,7 @@
 			"tall"			"30"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"		
+			"fgcolor"		"sirrWhite"		
 		}
 	}
 		
@@ -95,7 +95,7 @@
 			"ypos"			"5"
 			"wide"			"105"
 			"tall"			"20"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 		}
 		
 		"CreditCollectedCountLabel"
@@ -123,7 +123,7 @@
 			"ypos"			"17"
 			"wide"			"105"
 			"tall"			"20"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 		}
 		
 		"CreditMissedCountLabel"
@@ -151,7 +151,7 @@
 			"ypos"			"29"
 			"wide"			"105"
 			"tall"			"20"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 		}
 		
 		"CreditBonusCountLabel"
@@ -191,7 +191,7 @@
 			"ypos"			"5"
 			"wide"			"115"
 			"tall"			"20"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 		}
 		
 		"RatingTextShadow"
@@ -219,7 +219,7 @@
 			"ypos"			"19"
 			"wide"			"115"
 			"tall"			"30"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 		}
 	}
 
@@ -266,7 +266,7 @@
 			"ypos"			"3"
 			"wide"			"160"
 			"tall"			"20"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 		}
 		
 		"RespecCountLabel"

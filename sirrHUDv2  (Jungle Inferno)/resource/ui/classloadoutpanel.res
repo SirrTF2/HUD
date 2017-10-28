@@ -14,9 +14,9 @@
 		"tabPosition"	"0"
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"	"ahudDarkGrey"
-		"infocus_bgcolor_override" "ahudDarkGrey"
-		"outoffocus_bgcolor_override" "ahudDarkGrey"
+		"bgcolor_override"	"sirrDarkGrey"
+		"infocus_bgcolor_override" "sirrDarkGrey"
+		"outoffocus_bgcolor_override" "sirrDarkGrey"
 		
 		"item_xpos_offcenter_a"	"-310"
 		"item_xpos_offcenter_b"	"165"
@@ -421,9 +421,9 @@
 		"tall"			"75"
 		"autoResize"	"1"
 		"visible"		"0"
-		"bgcolor_override"		"ahudDarkerGrey"
+		"bgcolor_override"		"sirrDarkerGrey"
 		"PaintBackgroundType"	"0"
-		"border"		"ahudPanelBorder"
+		"border"		"sirrPanelBorder"
 	}
 	
 	"TauntHintLabel"
@@ -465,11 +465,11 @@
 		"scaleImage"		"1"
 		"command"			"sv_cheats 1;r_skin 1"
 		
-		"defaultFgColor_override" "ahudBlue"
-		"armedFgColor_override" "ahudWhite"
-		"armedBgColor_override"	"ahudBlue"
-		"depressedFgColor_override" "ahudWhite"
-		"depressedBgColor_override"	"ahudBlue"
+		"defaultFgColor_override" "sirrBlue"
+		"armedFgColor_override" "sirrWhite"
+		"armedBgColor_override"	"sirrBlue"
+		"depressedFgColor_override" "sirrWhite"
+		"depressedBgColor_override"	"sirrBlue"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -579,11 +579,11 @@
 		"scaleImage"		"1"
 		"command"			"sv_cheats 1;r_skin 0"
 		
-		"defaultFgColor_override" "ahudRed"
-		"armedFgColor_override" "ahudWhite"
-		"armedBgColor_override"	"ahudRed"
-		"depressedFgColor_override" "ahudWhite"
-		"depressedBgColor_override"	"ahudRed"
+		"defaultFgColor_override" "sirrRed"
+		"armedFgColor_override" "sirrWhite"
+		"armedBgColor_override"	"sirrRed"
+		"depressedFgColor_override" "sirrWhite"
+		"depressedBgColor_override"	"sirrRed"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

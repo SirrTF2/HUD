@@ -2869,7 +2869,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Webly Sleek UI Light
+				"name"		"Webly Sleek UI Light"
 				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"

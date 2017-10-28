@@ -10,7 +10,7 @@
 		"tall"		"480"
 		"visible"	"0"
 		"enabled"	"1"
-		"bgcolor_override"	"ahudDarkGrey"
+		"bgcolor_override"	"sirrDarkGrey"
 	}
 	"MainBackground"
 	{
@@ -183,22 +183,22 @@
 				"NumericInputOnly"		"0"
 				"unicode"		"0"
 				
-				"fgcolor_override"	"ahudWhite"
-				"bgcolor_override"	"ahudBlack"
-				"disabledFgColor_override" "ahudWhite"
-				"disabledBgColor_override" "ahudBlack"
-				"selectionColor_override" "ahudBlack"
-				"selectionTextColor_override" "ahudWhite"
-				"defaultSelectionBG2Color_override" "ahudBlack"
+				"fgcolor_override"	"sirrWhite"
+				"bgcolor_override"	"sirrBlack"
+				"disabledFgColor_override" "sirrWhite"
+				"disabledBgColor_override" "sirrBlack"
+				"selectionColor_override" "sirrBlack"
+				"selectionTextColor_override" "sirrWhite"
+				"defaultSelectionBG2Color_override" "sirrBlack"
 		
 				"Button"
 				{
-					"defaultFgColor_override"	"ahudWhite"
-					"defaultBgColor_override"	"ahudBlack"
-					"selectedFgColor_override"	"ahudBlack"
-					"selectedBgColor_override"	"ahudWhite"
-					"armedFgColor_override"	"ahudBlack"
-					"armedBgColor_override"	"ahudWhite"
+					"defaultFgColor_override"	"sirrWhite"
+					"defaultBgColor_override"	"sirrBlack"
+					"selectedFgColor_override"	"sirrBlack"
+					"selectedBgColor_override"	"sirrWhite"
+					"armedFgColor_override"	"sirrBlack"
+					"armedBgColor_override"	"sirrWhite"
 					"paintbackgroundtype"	"0"
 				}		
 			}
@@ -222,22 +222,22 @@
 				"NumericInputOnly"		"0"
 				"unicode"		"0"
 				
-				"fgcolor_override"	"ahudWhite"
-				"bgcolor_override"	"ahudBlack"
-				"disabledFgColor_override" "ahudWhite"
-				"disabledBgColor_override" "ahudBlack"
-				"selectionColor_override" "ahudBlack"
-				"selectionTextColor_override" "ahudWhite"
-				"defaultSelectionBG2Color_override" "ahudBlack"
+				"fgcolor_override"	"sirrWhite"
+				"bgcolor_override"	"sirrBlack"
+				"disabledFgColor_override" "sirrWhite"
+				"disabledBgColor_override" "sirrBlack"
+				"selectionColor_override" "sirrBlack"
+				"selectionTextColor_override" "sirrWhite"
+				"defaultSelectionBG2Color_override" "sirrBlack"
 		
 				"Button"
 				{
-					"defaultFgColor_override"	"ahudWhite"
-					"defaultBgColor_override"	"ahudBlack"
-					"selectedFgColor_override"	"ahudBlack"
-					"selectedBgColor_override"	"ahudWhite"
-					"armedFgColor_override"	"ahudBlack"
-					"armedBgColor_override"	"ahudWhite"
+					"defaultFgColor_override"	"sirrWhite"
+					"defaultBgColor_override"	"sirrBlack"
+					"selectedFgColor_override"	"sirrBlack"
+					"selectedBgColor_override"	"sirrWhite"
+					"armedFgColor_override"	"sirrBlack"
+					"armedBgColor_override"	"sirrWhite"
 					"paintbackgroundtype"	"0"
 				}						
 			}
@@ -261,22 +261,22 @@
 				"NumericInputOnly"		"0"
 				"unicode"		"0"
 				
-				"fgcolor_override"	"ahudWhite"
-				"bgcolor_override"	"ahudBlack"
-				"disabledFgColor_override" "ahudWhite"
-				"disabledBgColor_override" "ahudBlack"
-				"selectionColor_override" "ahudBlack"
-				"selectionTextColor_override" "ahudWhite"
-				"defaultSelectionBG2Color_override" "ahudBlack"
+				"fgcolor_override"	"sirrWhite"
+				"bgcolor_override"	"sirrBlack"
+				"disabledFgColor_override" "sirrWhite"
+				"disabledBgColor_override" "sirrBlack"
+				"selectionColor_override" "sirrBlack"
+				"selectionTextColor_override" "sirrWhite"
+				"defaultSelectionBG2Color_override" "sirrBlack"
 		
 				"Button"
 				{
-					"defaultFgColor_override"	"ahudWhite"
-					"defaultBgColor_override"	"ahudBlack"
-					"selectedFgColor_override"	"ahudBlack"
-					"selectedBgColor_override"	"ahudWhite"
-					"armedFgColor_override"	"ahudBlack"
-					"armedBgColor_override"	"ahudWhite"
+					"defaultFgColor_override"	"sirrWhite"
+					"defaultBgColor_override"	"sirrBlack"
+					"selectedFgColor_override"	"sirrBlack"
+					"selectedBgColor_override"	"sirrWhite"
+					"armedFgColor_override"	"sirrBlack"
+					"armedBgColor_override"	"sirrWhite"
 					"paintbackgroundtype"	"0"
 				}				
 			}
@@ -293,7 +293,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"bgcolor_override"		"ahudDarkGrey"
+			"bgcolor_override"		"sirrDarkGrey"
 		}
 		"AveragesLabel"
 		{
@@ -1394,7 +1394,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"bgcolor_override"		"ahudDarkGrey"
+			"bgcolor_override"		"sirrDarkGrey"
 		}
 		"RecordsLabel1"
 		{

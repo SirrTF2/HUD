@@ -28,8 +28,8 @@
 		"tall"			"f-50"
 		"visible"		"1"
 		"PaintBackgroundType"	"0"
-		"border"		"ahudPanelBorder"
-		"bgcolor_override"	"ahudDarkGrey"
+		"border"		"sirrPanelBorder"
+		"bgcolor_override"	"sirrDarkGrey"
 		"proportionaltoparent"	"1"
 	}
 
@@ -46,7 +46,7 @@
 		"labeltext"		"#TF_MM_OpenSettings"
 		"textAlignment"	"west"
 		"font"			"Code24"
-		"fgcolor_override"	"ahudWhite"
+		"fgcolor_override"	"sirrWhite"
 		
 		"mouseinputenabled"	"0"
 	}
@@ -65,7 +65,7 @@
 		"textAlignment"	"west"
 		"font"			"HudFontSmallestBold"
 		"smallcheckimage"	"1"
-		"fgcolor_override"	"ahudDullWhite"
+		"fgcolor_override"	"sirrDullWhite"
 
 		"sound_depressed"	"UI/buttonclickrelease.wav"	
 		"button_activation_type"	"1"
@@ -86,11 +86,11 @@
 
 		"editable"		"0"
 		"bgcolor_override"	"0 0 0 255"
-		"fgcolor_override"	"ahudWhite"
-		"disabledFgColor_override" "ahudWhite"
+		"fgcolor_override"	"sirrWhite"
+		"disabledFgColor_override" "sirrWhite"
 		"disabledBgColor_override" "0 0 0 0"
 		"selectionColor_override" "0 0 0 0"
-		"selectionTextColor_override" "ahudWhite"
+		"selectionTextColor_override" "sirrWhite"
 		"defaultSelectionBG2Color_override" "0 0 0 0"
 	}
 
@@ -212,7 +212,7 @@
 		"textAlignment"	"north-west"
 		"font"			"HudFontSmallest"
 		"wrap"		"1"
-		"fgcolor"		"ahudDullWhite"
+		"fgcolor"		"sirrDullWhite"
 
 		"sound_depressed"	"UI/buttonclickrelease.wav"	
 		"button_activation_type"	"1"
@@ -348,7 +348,7 @@
 
 			"paintborder"	"1"
 			"border"		"NoBorder"
-			"bgcolor_override"	"ahudBlack"
+			"bgcolor_override"	"sirrBlack"
 		}
 	}
 }

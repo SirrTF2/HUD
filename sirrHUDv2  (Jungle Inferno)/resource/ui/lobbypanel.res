@@ -15,7 +15,7 @@
 		"tabPosition"	"0"
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"	"ahudDarkGrey"
+		"bgcolor_override"	"sirrDarkGrey"
 		"proportionaltoparent"	"1"
 
 		"NavToRelay"	"MvMTourOfDutyGroupBox"
@@ -33,8 +33,8 @@
 		"tall"			"0"
 		"visible"		"0"
 		"PaintBackgroundType"	"0"
-		"border"		"ahudPanelBorder"
-		"bgcolor_override"	"ahudDarkerGrey"
+		"border"		"sirrPanelBorder"
+		"bgcolor_override"	"sirrDarkerGrey"
 		
 		"TipLabel"
 		{
@@ -52,7 +52,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"ahudWhite"
+			"fgcolor_override"	"sirrWhite"
 			"auto_wide_tocontents"	"1"
 		}
 	}
@@ -68,8 +68,8 @@
 		"tall"		"330"
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"1"
-		"bgcolor_override"	"ahudDarkGrey"
-		"border"		"ahudPanelBorder"
+		"bgcolor_override"	"sirrDarkGrey"
+		"border"		"sirrPanelBorder"
 
 		"NoGCTitle"
 		{
@@ -197,7 +197,7 @@
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"1"
 		"bgcolor_override"	"25 25 25 200"
-		"border"		"ahudPanelBorder"
+		"border"		"sirrPanelBorder"
 
 		"SearchActiveTitle"
 		{
@@ -611,7 +611,7 @@
 			"PaintBackgroundType"	"0"
 			"paintbackground"		"1"
 			"bgcolor_override"	"25 25 25 200"
-			"border"		"ahudPanelBorder"
+			"border"		"sirrPanelBorder"
 
 			"NavToRelay"	"InviteButton"
 
@@ -695,7 +695,7 @@
 			"wide"			"200"
 			"tall"			"110"
 			"bgcolor_override"	"25 25 25 200"
-			"border"		"ahudPanelBorder"
+			"border"		"sirrPanelBorder"
 		}
 
 		"ChatTextEntry"
@@ -708,8 +708,8 @@
 			"zpos"			"0"
 			"wide"			"200"
 			"tall"			"20"
-			"bgcolor_override"	"ahudBlack"
-			"border"		"ahudPanelBorder"
+			"bgcolor_override"	"sirrBlack"
+			"border"		"sirrPanelBorder"
 		}
 	}
 

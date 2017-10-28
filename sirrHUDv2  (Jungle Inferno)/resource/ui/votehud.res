@@ -10,8 +10,8 @@
 		"tall"			"67"
 		"visible"		"0"
 		"enabled"		"1"
-		"border"		"ahudPanelBorder"
-		"bgcolor_override"	"ahudDarkGrey"
+		"border"		"sirrPanelBorder"
+		"bgcolor_override"	"sirrDarkGrey"
 				
 		"PassedIcon"
 		{
@@ -77,8 +77,8 @@
 		"tall"			"144"
 		"visible"		"0"
 		"enabled"		"1"
-		"border"		"ahudPanelBorder"
-		"bgcolor_override"	"ahudDarkGrey"
+		"border"		"sirrPanelBorder"
+		"bgcolor_override"	"sirrDarkGrey"
 		
 		"Header"
 		{
@@ -409,8 +409,8 @@
 		"tall"			"67"
 		"visible"		"0"
 		"enabled"		"1"
-		"border"		"ahudPanelBorder"
-		"bgcolor_override"	"ahudDarkGrey"
+		"border"		"sirrPanelBorder"
+		"bgcolor_override"	"sirrDarkGrey"
 				
 		"FailedIcon"
 		{
@@ -476,8 +476,8 @@
 		"tall"			"67"
 		"visible"		"0"
 		"enabled"		"1"
-		"border"		"ahudPanelBorder"
-		"bgcolor_override"	"ahudDarkGrey"
+		"border"		"sirrPanelBorder"
+		"bgcolor_override"	"sirrDarkGrey"
 				
 		"FailedIcon"
 		{
@@ -546,12 +546,12 @@
 		"enabled"			"1"
 		"tabPosition"		"0"
 		"settitlebarvisible"	"0"
-		"border"			"ahudPanelBorder"
-		"bgcolor_override"	"ahudDarkGrey"
+		"border"			"sirrPanelBorder"
+		"bgcolor_override"	"sirrDarkGrey"
 		"PaintBackground"	"1"
 
 		"header_font"		"ItemFontNameLarge"
-		"header_fgcolor"	"ahudWhite"
+		"header_fgcolor"	"sirrWhite"
 
 		"issue_width"		"180"		
 		"issue_font"		"ItemFontNameSmall"
@@ -651,13 +651,13 @@
 			"NumericInputOnly"	"0"
 			"unicode"			"0"
 			
-			"fgcolor_override"	"ahudWhite"
-			"bgcolor_override"	"ahudBlack"
-			"disabledFgColor_override" "ahudWhite"
-			"disabledBgColor_override" "ahudBlack"
-			"selectionColor_override" "ahudBlack"
-			"selectionTextColor_override" "ahudWhite"
-			"defaultSelectionBG2Color_override" "ahudWhite"
+			"fgcolor_override"	"sirrWhite"
+			"bgcolor_override"	"sirrBlack"
+			"disabledFgColor_override" "sirrWhite"
+			"disabledBgColor_override" "sirrBlack"
+			"selectionColor_override" "sirrBlack"
+			"selectionTextColor_override" "sirrWhite"
+			"defaultSelectionBG2Color_override" "sirrWhite"
 		}
 			
 		"CallVoteButton"

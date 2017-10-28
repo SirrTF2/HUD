@@ -10,8 +10,8 @@
 		"tall"			"150"
 		"visible"		"1"
 		"PaintBackgroundType"	"0"
-		"border"		"ahudPanelBorder"
-		"bgcolor_override"	"ahudDarkGrey"
+		"border"		"sirrPanelBorder"
+		"bgcolor_override"	"sirrDarkGrey"
 		"proportionaltoparent"	"1"
 
 		"QuestionContainer"

@@ -13,24 +13,24 @@ Scheme
 		
 		"HudBlack"				"0 0 0 200"
 		
-		"ahudBlue"				"72 112 125 255"
-		"ahudDarkBlue"			"46 73 82 255"
-		"ahudRed"				"158 64 61 255"
-		"ahudDarkRed"			"102 48 46 255"
+		"sirrBlue"				"72 112 125 255"
+		"sirrDarkBlue"			"46 73 82 255"
+		"sirrRed"				"158 64 61 255"
+		"sirrDarkRed"			"102 48 46 255"
 		
-		"ahudGreen"				"92 122 90 255"
-		"ahudDarkGreen"			"38 53 36 255"
-		"ahudYellow"			"169 123 53 255"
-		"ahudBrightYellow"		"218 165 32 255"
+		"sirrGreen"				"92 122 90 255"
+		"sirrDarkGreen"			"38 53 36 255"
+		"sirrYellow"			"169 123 53 255"
+		"sirrBrightYellow"		"218 165 32 255"
 		
-		"ahudWhite"				"242 242 242 255"
-		"ahudDullWhite"			"132 132 132 255"
+		"sirrWhite"				"242 242 242 255"
+		"sirrDullWhite"			"132 132 132 255"
 		
-		"ahudGrey"				"51 47 46 255"
-		"ahudDarkGrey"			"27 27 27 255"
-		"ahudDarkerGrey"		"22 22 22 255"
+		"sirrGrey"				"51 47 46 255"
+		"sirrDarkGrey"			"27 27 27 255"
+		"sirrDarkerGrey"		"22 22 22 255"
 		
-		"ahudBlack"				"17 17 17 255"
+		"sirrBlack"				"17 17 17 255"
 		
 		// ----------------------------------
 		
@@ -74,88 +74,88 @@ Scheme
 		Border.Dark						"Blank"			// the dark/unlit side of a control
 		Border.Selection				"Blank"			// the additional border color for displaying the default/selected button
 
-		Button.TextColor				"ahudWhite"
-		Button.BgColor					"ahudBlack"
-		Button.ArmedTextColor			"ahudWhite"
-		Button.ArmedBgColor				"ahudYellow"
-		Button.DepressedTextColor		"ahudWhite"
-		Button.DepressedBgColor			"ahudYellow"	
+		Button.TextColor				"sirrWhite"
+		Button.BgColor					"sirrBlack"
+		Button.ArmedTextColor			"sirrWhite"
+		Button.ArmedBgColor				"sirrYellow"
+		Button.DepressedTextColor		"sirrWhite"
+		Button.DepressedBgColor			"sirrYellow"	
 		Button.FocusBorderColor			"Blank"
 		
-		CheckButton.TextColor			"ahudDullWhite"
-		CheckButton.SelectedTextColor	"ahudWhite"
-		CheckButton.BgColor				"ahudBlack"
-		CheckButton.HighlightFgColor	"ahudYellow"
+		CheckButton.TextColor			"sirrDullWhite"
+		CheckButton.SelectedTextColor	"sirrWhite"
+		CheckButton.BgColor				"sirrBlack"
+		CheckButton.HighlightFgColor	"sirrYellow"
 		CheckButton.ArmedBgColor		"Blank"
 		CheckButton.DepressedBgColor	"Blank"
 		CheckButton.Border1  			"Border.Dark" 		// the left checkbutton border
 		CheckButton.Border2  			"Border.Bright"		// the right checkbutton border
-		CheckButton.Check				"ahudWhite"			// color of the check itself
+		CheckButton.Check				"sirrWhite"			// color of the check itself
 		CheckButton.DisabledBgColor	    "Blank"
 
-		ToggleButton.SelectedTextColor	"ahudWhite"
+		ToggleButton.SelectedTextColor	"sirrWhite"
 		
-		ComboBoxButton.ArrowColor		"ahudDullWhite"
-		ComboBoxButton.ArmedArrowColor	"ahudWhite"
+		ComboBoxButton.ArrowColor		"sirrDullWhite"
+		ComboBoxButton.ArmedArrowColor	"sirrWhite"
 		ComboBoxButton.BgColor			"Blank"
 		ComboBoxButton.DisabledBgColor	"Blank"
 		
-		RadioButton.TextColor			"ahudDullWhite"
-		RadioButton.SelectedTextColor	"ahudWhite"
+		RadioButton.TextColor			"sirrDullWhite"
+		RadioButton.SelectedTextColor	"sirrWhite"
 		RadioButton.ArmedTextColor		"TFTextMedium"
 		
-		Frame.BgColor					"ahudDarkGrey"
+		Frame.BgColor					"sirrDarkGrey"
 		Frame.OutOfFocusBgColor			"27 27 27 100"
 		FrameGrip.Color1				"TFTanMedium"
-		FrameGrip.Color2				"ahudWhite"
-		FrameTitleButton.FgColor		"ahudWhite"
+		FrameGrip.Color2				"sirrWhite"
+		FrameTitleButton.FgColor		"sirrWhite"
 		FrameTitleBar.Font				"UiBold"
-		FrameTitleBar.TextColor			"ahudWhite"
-		FrameTitleBar.DisabledTextColor	"ahudDullWhite"
+		FrameTitleBar.TextColor			"sirrWhite"
+		FrameTitleBar.DisabledTextColor	"sirrDullWhite"
 		
-		Label.TextDullColor				"ahudDullWhite"
-		Label.TextColor					"ahudWhite"
-		Label.TextBrightColor			"ahudWhite"
-		Label.SelectedTextColor			"ahudWhite"
+		Label.TextDullColor				"sirrDullWhite"
+		Label.TextColor					"sirrWhite"
+		Label.TextBrightColor			"sirrWhite"
+		Label.SelectedTextColor			"sirrWhite"
 		Label.BgColor					"Blank"
-		Label.DisabledFgColor1			"ahudDullWhite"	
+		Label.DisabledFgColor1			"sirrDullWhite"	
 		Label.DisabledFgColor2			"Blank"	
 		
-		ListPanel.TextColor					"ahudWhite"
+		ListPanel.TextColor					"sirrWhite"
 		ListPanel.BgColor					"HudBlack"
-		ListPanel.SelectedBgColor			"ahudWhite"
-		ListPanel.SelectedOutOfFocusBgColor	"ahudDullWhite"
+		ListPanel.SelectedBgColor			"sirrWhite"
+		ListPanel.SelectedOutOfFocusBgColor	"sirrDullWhite"
 		
-		MainMenu.TextColor			"ahudDullWhite"
-		MainMenu.ArmedTextColor		"ahudWhite"
+		MainMenu.TextColor			"sirrDullWhite"
+		MainMenu.ArmedTextColor		"sirrWhite"
 		MainMenu.Inset				"32"
 		
 		Menu.TextInset					"6"
-		Menu.FgColor			"ahudWhite"
+		Menu.FgColor			"sirrWhite"
 		Menu.BgColor			"HudBlack"
-		Menu.ArmedFgColor		"ahudBlack"
-		Menu.ArmedBgColor		"ahudWhite"
+		Menu.ArmedFgColor		"sirrBlack"
+		Menu.ArmedBgColor		"sirrWhite"
 		Menu.DividerColor		"Border.Dark"
 		
-		ScrollBarButton.FgColor				"ahudWhite"
-		ScrollBarButton.BgColor				"ahudBlack"
-		ScrollBarButton.ArmedFgColor		"ahudBlack"
-		ScrollBarButton.ArmedBgColor		"ahudWhite"
-		ScrollBarButton.DepressedFgColor	"ahudBlack"
-		ScrollBarButton.DepressedBgColor	"ahudWhite"
+		ScrollBarButton.FgColor				"sirrWhite"
+		ScrollBarButton.BgColor				"sirrBlack"
+		ScrollBarButton.ArmedFgColor		"sirrBlack"
+		ScrollBarButton.ArmedBgColor		"sirrWhite"
+		ScrollBarButton.DepressedFgColor	"sirrBlack"
+		ScrollBarButton.DepressedBgColor	"sirrWhite"
 
-		ScrollBarSlider.BgColor				"ahudBlack"		// this isn't really used
-		ScrollBarSlider.FgColor				"ahudWhite"		// handle with which the slider is grabbed
+		ScrollBarSlider.BgColor				"sirrBlack"		// this isn't really used
+		ScrollBarSlider.FgColor				"sirrWhite"		// handle with which the slider is grabbed
 		
 		Slider.NobColor				"TFTanLight"		
-		Slider.TextColor			"ahudWhite"
+		Slider.TextColor			"sirrWhite"
 		Slider.TrackColor			"HudBlack"
 		Slider.DisabledTextColor1	"TFTextMediumDark"
         Slider.DisabledTextColor2	"Blank"
 		
-		TextEntry.TextColor			        "ahudWhite"
-		TextEntry.DisabledTextColor	        "ahudDullWhite"
-		TextEntry.SelectedBgColor	        "ahudWhite"
+		TextEntry.TextColor			        "sirrWhite"
+		TextEntry.DisabledTextColor	        "sirrDullWhite"
+		TextEntry.SelectedBgColor	        "sirrWhite"
 		
 		// Borrowed from CS:S SourceScheme
 		Frame.TitleTextInsetX				14
@@ -174,55 +174,55 @@ Scheme
 		FrameTitleBar.BgColor				"Blank"
 		FrameTitleBar.DisabledBgColor		"Blank"
 		
-		GraphPanel.FgColor			"ahudWhite"
+		GraphPanel.FgColor			"sirrWhite"
 		GraphPanel.BgColor			"HudBlack"
 		
 		ListPanel.TextBgColor				"Blank"
-		ListPanel.SelectedTextColor			"ahudBlack"
-		ListPanel.EmptyListInfoTextColor	"ahudDullWhite"
+		ListPanel.SelectedTextColor			"sirrBlack"
+		ListPanel.EmptyListInfoTextColor	"sirrDullWhite"
 		
-		Menu.TextColor				"ahudWhite"
-		Menu.ArmedTextColor			"ahudBlack"
+		Menu.TextColor				"sirrWhite"
+		Menu.ArmedTextColor			"sirrBlack"
 		
-		Panel.FgColor				"ahudDullWhite"
+		Panel.FgColor				"sirrDullWhite"
 		Panel.BgColor				"Blank"
 		
-		ProgressBar.FgColor			"ahudWhite"
+		ProgressBar.FgColor			"sirrWhite"
 		ProgressBar.BgColor			"HudBlack"
 		
-		PropertySheet.TextColor				"ahudDullWhite"
-		PropertySheet.SelectedTextColor		"ahudWhite"
+		PropertySheet.TextColor				"sirrDullWhite"
+		PropertySheet.SelectedTextColor		"sirrWhite"
 		PropertySheet.TransitionEffectTime	"0.25"
 		
-		RichText.TextColor				"ahudDullWhite"
+		RichText.TextColor				"sirrDullWhite"
 		RichText.BgColor				"HudBlack"
-		RichText.SelectedTextColor		"ahudBlack"
-		RichText.SelectedBgColor		"ahudWhite"
+		RichText.SelectedTextColor		"sirrBlack"
+		RichText.SelectedBgColor		"sirrWhite"
 		
 		ScrollBar.Wide					18
 		
-		SectionedListPanel.HeaderTextColor		"ahudWhite"
+		SectionedListPanel.HeaderTextColor		"sirrWhite"
 		SectionedListPanel.HeaderBgColor		"Blank"
-		SectionedListPanel.DividerColor			"ahudBlack"
+		SectionedListPanel.DividerColor			"sirrBlack"
 		SectionedListPanel.TextColor			"DullWhite"
-		SectionedListPanel.BrightTextColor		"ahudWhite"
+		SectionedListPanel.BrightTextColor		"sirrWhite"
 		SectionedListPanel.BgColor				"HudBlack"
-		SectionedListPanel.SelectedTextColor			"ahudBlack"
-		SectionedListPanel.SelectedBgColor				"ahudWhite"
-		SectionedListPanel.OutOfFocusSelectedTextColor	"ahudBlack"
+		SectionedListPanel.SelectedTextColor			"sirrBlack"
+		SectionedListPanel.SelectedBgColor				"sirrWhite"
+		SectionedListPanel.OutOfFocusSelectedTextColor	"sirrBlack"
 		SectionedListPanel.OutOfFocusSelectedBgColor	"100 100 100 128"
 		
 		TextEntry.BgColor						"HudBlack"
-		TextEntry.CursorColor					"ahudDullWhite"
+		TextEntry.CursorColor					"sirrDullWhite"
 		TextEntry.DisabledBgColor				"Blank"
-		TextEntry.SelectedTextColor				"ahudBlack"
+		TextEntry.SelectedTextColor				"sirrBlack"
 		TextEntry.OutOfFocusSelectedBgColor		"100 100 100 128"
 		TextEntry.FocusEdgeColor				"0 0 0 196"
 		
-		ToggleButton.SelectedTextColor		"ahudWhite"
+		ToggleButton.SelectedTextColor		"sirrWhite"
 		
-		Tooltip.TextColor		"ahudBlack"
-		Tooltip.BgColor			"ahudWhite"
+		Tooltip.TextColor		"sirrBlack"
+		Tooltip.BgColor			"sirrWhite"
 		
 		TreeView.BgColor		"HudBlack"
 		
@@ -233,11 +233,11 @@ Scheme
 		MainMenu.Backdrop				"0 0 0 200"
 		
 		Console.TextColor			"100 255 100 255"
-		Console.DevTextColor		"ahudWhite"
+		Console.DevTextColor		"sirrWhite"
 		
-		NewGame.TextColor			"ahudWhite"
+		NewGame.TextColor			"sirrWhite"
 		NewGame.FillColor			"0 0 0 255"
-		NewGame.SelectionColor		"ahudWhite"
+		NewGame.SelectionColor		"sirrWhite"
 		NewGame.DisabledColor		"128 128 128 196"				
 	}
 	
@@ -330,7 +330,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-Bold"
+				"name"		"WeblyBold"
 				"tall"		"35"
 				"additive"	"0"
 				"antialias" "1"
@@ -340,7 +340,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"Webly"
 				"tall"		"16"
 				"additive"	"0"
 				"antialias" "1"
@@ -350,7 +350,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"Webly"
 				"tall"		"17"
 				"additive"	"0"
 				"antialias" "1"
@@ -360,7 +360,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"Webly"
 				"tall"		"18"
 				"additive"	"0"
 				"antialias" "1"
@@ -370,7 +370,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"Webly"
 				"tall"		"19"
 				"additive"	"0"
 				"antialias" "1"
@@ -380,7 +380,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"Webly"
 				"tall"		"20"
 				"additive"	"0"
 				"antialias" "1"
@@ -401,7 +401,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"Webly"
 				"tall"		"18"
 				"weight"	"0"
 				"antialias"	"1"
@@ -412,7 +412,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-Bold"
+				"name"		"WeblyBold"
 				"tall"		"35"
 				"antialias" "1"
 			}
@@ -535,7 +535,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudBlack"
+					"color" "sirrBlack"
 					"offset" "0 0"
 				}
 			}
@@ -544,7 +544,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudBlack"
+					"color" "sirrBlack"
 					"offset" "0 0"
 				}
 			}
@@ -553,7 +553,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudBlack"
+					"color" "sirrBlack"
 					"offset" "0 0"
 				}
 			}
@@ -562,7 +562,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudBlack"
+					"color" "sirrBlack"
 					"offset" "0 0"
 				}
 			}
@@ -575,7 +575,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudDarkGrey"
+					"color" "sirrDarkGrey"
 					"offset" "0 0"
 				}
 			}
@@ -584,7 +584,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudDarkGrey"
+					"color" "sirrDarkGrey"
 					"offset" "0 0"
 				}
 			}
@@ -593,7 +593,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudDarkGrey"
+					"color" "sirrDarkGrey"
 					"offset" "0 0"
 				}
 			}
@@ -602,7 +602,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudDarkGrey"
+					"color" "sirrDarkGrey"
 					"offset" "0 0"
 				}
 			}
@@ -631,7 +631,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudBlack"
+					"color" "sirrBlack"
 					"offset" "0 0"
 				}
 			}
@@ -640,7 +640,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudBlack"
+					"color" "sirrBlack"
 					"offset" "0 0"
 				}
 			}
@@ -649,7 +649,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudBlack"
+					"color" "sirrBlack"
 					"offset" "0 0"
 				}
 			}
@@ -658,7 +658,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudBlack"
+					"color" "sirrBlack"
 					"offset" "0 0"
 				}
 			}
@@ -672,7 +672,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudBlack"
+					"color" "sirrBlack"
 					"offset" "0 0"
 				}
 			}
@@ -681,7 +681,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudBlack"
+					"color" "sirrBlack"
 					"offset" "0 0"
 				}
 			}
@@ -690,7 +690,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudBlack"
+					"color" "sirrBlack"
 					"offset" "0 0"
 				}
 			}
@@ -699,7 +699,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudBlack"
+					"color" "sirrBlack"
 					"offset" "0 0"
 				}
 			}
@@ -711,7 +711,7 @@ Scheme
 
 			render 
 			{
-				"0" "fill( x0, y0, x1, y1, ahudBlack )"
+				"0" "fill( x0, y0, x1, y1, sirrBlack )"
 			}
 
 			render_bg 
@@ -728,7 +728,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudBlack"
+					"color" "sirrBlack"
 					"offset" "0 0"
 				}
 			}
@@ -737,7 +737,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudBlack"
+					"color" "sirrBlack"
 					"offset" "0 0"
 				}
 			}
@@ -746,7 +746,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudBlack"
+					"color" "sirrBlack"
 					"offset" "0 0"
 				}
 			}
@@ -761,7 +761,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudBlack"
+					"color" "sirrBlack"
 					"offset" "0 0"
 				}
 			}
@@ -770,7 +770,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudBlack"
+					"color" "sirrBlack"
 					"offset" "0 0"
 				}
 			}
@@ -779,7 +779,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudBlack"
+					"color" "sirrBlack"
 					"offset" "0 0"
 				}
 			}
@@ -788,7 +788,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudBlack"
+					"color" "sirrBlack"
 					"offset" "0 0"
 				}
 			}

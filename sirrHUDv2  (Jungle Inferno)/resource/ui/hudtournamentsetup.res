@@ -74,10 +74,10 @@
 		"NumericInputOnly"	"0"
 		"unicode"		"0"
 		"wrap"			"0"
-		"fgcolor_override"		"ahudWhite"
+		"fgcolor_override"		"sirrWhite"
 		"bgcolor_override"	"0 0 0 255"
-		"selectionColor_override" "ahudWhite"
-		"selectionTextColor_override" "ahudBlack"		
+		"selectionColor_override" "sirrWhite"
+		"selectionTextColor_override" "sirrBlack"		
 		"labelText"		"%teamname%"
 		"textAlignment"		"west"
 	}
@@ -95,7 +95,7 @@
 		"pinCorner"	"0"
 		"visible"	"0"
 		"enabled"	"0"
-		"fillcolor"	"ahudBlack"
+		"fillcolor"	"sirrBlack"
 		"scaleImage"	"1"
 	}
 
@@ -122,7 +122,7 @@
 		"fgcolor"		"Red"
 		
 		"defaultBgColor_override"	"Blank"
-		"defaultFgColor_override" "ahudWhite"
+		"defaultFgColor_override" "sirrWhite"
 		"armedBgColor_override"	"Blank"
 		"armedFgColor_override" 	"RedSolid"
 		"depressedBgColor_override"	"Blank"
@@ -152,7 +152,7 @@
 		"fgcolor"		"FooterBGBlack"
 		
 		"defaultBgColor_override"	"Blank"
-		"defaultFgColor_override" "ahudWhite"
+		"defaultFgColor_override" "sirrWhite"
 		"armedBgColor_override"	"Blank"
 		"armedFgColor_override" 	"CreditsGreen"
 		"depressedBgColor_override"	"Blank"

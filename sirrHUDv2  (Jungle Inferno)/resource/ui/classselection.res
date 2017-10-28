@@ -44,7 +44,7 @@
 		"font"			"Code18"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override"	"ahudWhite"
+		"fgcolor_override"	"sirrWhite"
 	}
 	
 	"Offense"
@@ -88,9 +88,9 @@
 		
 		"FgColor"					"255 255 255 128"
 		"defaultFgColor_override" 	"255 255 255 128"
-		"armedFgColor_override"		"ahudWhite"
+		"armedFgColor_override"		"sirrWhite"
 		"depressedFgColor_override" "255 255 255 128"
-		"selectedFgColor_override" 	"ahudWhite"
+		"selectedFgColor_override" 	"sirrWhite"
 			
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -124,9 +124,9 @@
 		
 		"FgColor"					"255 255 255 128"
 		"defaultFgColor_override" 	"255 255 255 128"
-		"armedFgColor_override"		"ahudWhite"
+		"armedFgColor_override"		"sirrWhite"
 		"depressedFgColor_override" "255 255 255 128"
-		"selectedFgColor_override" 	"ahudWhite"
+		"selectedFgColor_override" 	"sirrWhite"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -160,9 +160,9 @@
 		
 		"FgColor"					"255 255 255 128"
 		"defaultFgColor_override" 	"255 255 255 128"
-		"armedFgColor_override"		"ahudWhite"
+		"armedFgColor_override"		"sirrWhite"
 		"depressedFgColor_override" "255 255 255 128"
-		"selectedFgColor_override" 	"ahudWhite"
+		"selectedFgColor_override" 	"sirrWhite"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -216,9 +216,9 @@
 		
 		"FgColor"					"255 255 255 128"
 		"defaultFgColor_override" 	"255 255 255 128"
-		"armedFgColor_override"		"ahudWhite"
+		"armedFgColor_override"		"sirrWhite"
 		"depressedFgColor_override" "255 255 255 128"
-		"selectedFgColor_override" 	"ahudWhite"
+		"selectedFgColor_override" 	"sirrWhite"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -252,9 +252,9 @@
 		
 		"FgColor"					"255 255 255 128"
 		"defaultFgColor_override" 	"255 255 255 128"
-		"armedFgColor_override"		"ahudWhite"
+		"armedFgColor_override"		"sirrWhite"
 		"depressedFgColor_override" "255 255 255 128"
-		"selectedFgColor_override" 	"ahudWhite"
+		"selectedFgColor_override" 	"sirrWhite"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -287,9 +287,9 @@
 		"font"				"NormalCode12"
 		
 		"defaultFgColor_override" 	"255 255 255 128"
-		"armedFgColor_override"		"ahudWhite"
+		"armedFgColor_override"		"sirrWhite"
 		"depressedFgColor_override" "255 255 255 128"
-		"selectedFgColor_override" 	"ahudWhite"
+		"selectedFgColor_override" 	"sirrWhite"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -343,9 +343,9 @@
 		
 		"FgColor"					"255 255 255 128"
 		"defaultFgColor_override" 	"255 255 255 128"
-		"armedFgColor_override"		"ahudWhite"
+		"armedFgColor_override"		"sirrWhite"
 		"depressedFgColor_override" "255 255 255 128"
-		"selectedFgColor_override" 	"ahudWhite"
+		"selectedFgColor_override" 	"sirrWhite"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -379,9 +379,9 @@
 		
 		"FgColor"					"255 255 255 128"
 		"defaultFgColor_override" 	"255 255 255 128"
-		"armedFgColor_override"		"ahudWhite"
+		"armedFgColor_override"		"sirrWhite"
 		"depressedFgColor_override" "255 255 255 128"
-		"selectedFgColor_override" 	"ahudWhite"
+		"selectedFgColor_override" 	"sirrWhite"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -416,9 +416,9 @@
 		
 		"FgColor"					"255 255 255 128"
 		"defaultFgColor_override" 	"255 255 255 128"
-		"armedFgColor_override"		"ahudWhite"
+		"armedFgColor_override"		"sirrWhite"
 		"depressedFgColor_override" "255 255 255 128"
-		"selectedFgColor_override" 	"ahudWhite"
+		"selectedFgColor_override" 	"sirrWhite"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -453,9 +453,9 @@
 		
 		"FgColor"					"255 255 255 128"
 		"defaultFgColor_override" 	"255 255 255 128"
-		"armedFgColor_override"		"ahudWhite"
+		"armedFgColor_override"		"sirrWhite"
 		"depressedFgColor_override" "255 255 255 128"
-		"selectedFgColor_override" 	"ahudWhite"
+		"selectedFgColor_override" 	"sirrWhite"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -490,9 +490,9 @@
 		
 		"FgColor"					"255 255 255 128"
 		"defaultFgColor_override" 	"255 255 255 128"
-		"armedFgColor_override"		"ahudWhite"
+		"armedFgColor_override"		"sirrWhite"
 		"depressedFgColor_override" "255 255 255 128"
-		"selectedFgColor_override" 	"ahudWhite"
+		"selectedFgColor_override" 	"sirrWhite"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -521,9 +521,9 @@
 		
 		"FgColor"					"255 255 255 128"
 		"defaultFgColor_override" 	"255 255 255 128"
-		"armedFgColor_override"		"ahudWhite"
+		"armedFgColor_override"		"sirrWhite"
 		"depressedFgColor_override" "255 255 255 128"
-		"selectedFgColor_override" 	"ahudWhite"
+		"selectedFgColor_override" 	"sirrWhite"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -855,7 +855,7 @@
 		"labelText"		"#TF_TeamCount"
 		"textAlignment"	"left"
 		"font"			"HudFontMediumSmallSecondary"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"sirrWhite"
 	}
 	
 	"numScout"
@@ -875,7 +875,7 @@
 		"labelText"		"%numScout%"
 		"textAlignment"	"west"
 		"font"			"NormalCode12"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"sirrWhite"
 	}	
 	
 	"numSoldier"
@@ -895,7 +895,7 @@
 		"labelText"		"%numSoldier%"
 		"textAlignment"	"west"
 		"font"			"NormalCode12"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"sirrWhite"
 	}		
 	
 	"numPyro"
@@ -915,7 +915,7 @@
 		"labelText"		"%numPyro%"
 		"textAlignment"	"west"
 		"font"			"NormalCode12"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"sirrWhite"
 	}			
 	
 	"numDemoman"
@@ -935,7 +935,7 @@
 		"labelText"		"%numDemoman%"
 		"textAlignment"	"west"
 		"font"			"NormalCode12"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"sirrWhite"
 	}				
 	
 	"numHeavy"
@@ -955,7 +955,7 @@
 		"labelText"		"%numHeavy%"
 		"textAlignment"	"west"
 		"font"			"NormalCode12"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"sirrWhite"
 	}					
 	
 	"numEngineer"
@@ -975,7 +975,7 @@
 		"labelText"		"%numEngineer%"
 		"textAlignment"	"west"
 		"font"			"NormalCode12"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"sirrWhite"
 	}						
 	
 	"numMedic"
@@ -995,7 +995,7 @@
 		"labelText"		"%numMedic%"
 		"textAlignment"	"west"
 		"font"			"NormalCode12"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"sirrWhite"
 	}							
 	
 	"numSniper"
@@ -1015,7 +1015,7 @@
 		"labelText"		"%numSniper%"
 		"textAlignment"	"west"
 		"font"			"NormalCode12"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"sirrWhite"
 	}						
 	
 	"numSpy"
@@ -1035,7 +1035,7 @@
 		"labelText"		"%numSpy%"
 		"textAlignment"	"west"
 		"font"			"NormalCode12"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"sirrWhite"
 	}								
 	
 	"MvMUpgradeImageScout"

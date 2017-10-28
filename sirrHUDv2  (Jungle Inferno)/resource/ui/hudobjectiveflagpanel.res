@@ -29,7 +29,7 @@
 		"tall"			"22"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"ahudBlue"
+		"fillcolor"		"sirrBlue"
 		
 		"if_hybrid"
 		{
@@ -58,7 +58,7 @@
 		"tall"			"21"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"ahudDarkBlue"
+		"fillcolor"		"sirrDarkBlue"
 		
 		"if_hybrid"
 		{
@@ -87,7 +87,7 @@
 		"tall"			"22"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"ahudRed"
+		"fillcolor"		"sirrRed"
 		
 		"if_hybrid"
 		{
@@ -116,7 +116,7 @@
 		"tall"			"23"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"ahudDarkRed"
+		"fillcolor"		"sirrDarkRed"
 		
 		"if_hybrid"
 		{
@@ -178,7 +178,7 @@
 		"textAlignment"	"east"	
 		"labelText"		"%bluescore%"
 		"font"			"NormalCode24"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"sirrWhite"
 		
 		"if_hybrid"
 		{
@@ -242,7 +242,7 @@
 		"textAlignment"	"west"	
 		"labelText"		"%redscore%"
 		"font"			"NormalCode24"
-		"fgcolor"		"ahudWhite"	
+		"fgcolor"		"sirrWhite"	
 		
 		"if_hybrid"
 		{
@@ -348,7 +348,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"NormalCode12"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"sirrWhite"
 		
 		"if_hybrid"
 		{

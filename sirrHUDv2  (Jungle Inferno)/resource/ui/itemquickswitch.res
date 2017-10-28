@@ -25,7 +25,7 @@
 		{
 			"wide"			"205"
 			"tall"			"35"
-			"bgcolor_override"		"ahudBlack"
+			"bgcolor_override"		"sirrBlack"
 			"PaintBackgroundType"	"0"
 			"paintbackground"	"0" 			
 			"paintborder"	"0"

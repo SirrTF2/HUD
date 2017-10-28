@@ -38,7 +38,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"ahudBlue"
+		"fillcolor"		"sirrBlue"
 		"scaleImage"		"1"
 		
 		if_mvm
@@ -60,7 +60,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"ahudDarkBlue"
+		"fillcolor"		"sirrDarkBlue"
 		"scaleImage"		"1"
 		
 		if_mvm
@@ -82,7 +82,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"ahudRed"
+		"fillcolor"		"sirrRed"
 		"scaleImage"		"1"
 		
 		if_mvm
@@ -104,7 +104,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"ahudDarkRed"
+		"fillcolor"		"sirrDarkRed"
 		"scaleImage"		"1"
 		
 		if_mvm
@@ -183,7 +183,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"sirrWhite"
 		
 		if_mvm
 		{
@@ -207,7 +207,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"sirrWhite"
 		
 		if_mvm
 		{
@@ -255,7 +255,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"sirrWhite"
 		
 		if_mvm
 		{
@@ -294,7 +294,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"sirrWhite"
 		
 		if_mvm
 		{
@@ -318,7 +318,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"sirrWhite"
 		
 		if_mvm
 		{
@@ -366,7 +366,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"sirrWhite"
 		
 		if_mvm
 		{
@@ -390,7 +390,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"sirrWhite"
 		
 		if_mvm
 		{
@@ -438,7 +438,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"sirrWhite"
 		"centerwrap"	"0"
 		
 		if_mvm
@@ -463,7 +463,7 @@
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"1"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"sirrWhite"
 		
 		if_mvm
 		{
@@ -561,7 +561,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"sirrWhite"
 		
 		if_mvm
 		{
@@ -586,7 +586,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"sirrWhite"
 		
 		if_mvm
 		{
@@ -650,12 +650,12 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"sirrWhite"
 		
 		if_mvm
 		{
 			"visible"		"1"
-			"fgcolor"		"ahudBlack"
+			"fgcolor"		"sirrBlack"
 			"xpos_minmode"	"c147"
 			"ypos"			"336"
 		}	
@@ -957,7 +957,7 @@
 			if_mvm
 			{
 				"visible"		"1"
-				"fillcolor"		"ahudWhite"
+				"fillcolor"		"sirrWhite"
 			}
 		}
 		
@@ -977,12 +977,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}			
 		}
 		"DeathsLabel"
@@ -1018,12 +1018,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}	
 		}
 		"DestructionLabel"
@@ -1042,12 +1042,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}	
 		}
 		"Kills"
@@ -1066,12 +1066,12 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-			"fgcolor"		"ahudRed"
+			"fgcolor"		"sirrRed"
 			
 			if_mvm
 			{
 				"visible"		"0"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}	
 		}
 		"Kills2"
@@ -1090,12 +1090,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudLimeGreen"
+			"fgcolor"		"sirrLimeGreen"
 			
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}	
 		}
 		"Deaths"
@@ -1114,12 +1114,12 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-			"fgcolor"		"ahudRed"
+			"fgcolor"		"sirrRed"
 			
 			if_mvm
 			{
 				"visible"		"0"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}	
 		}
 		"Deaths2"
@@ -1138,12 +1138,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudRed"
+			"fgcolor"		"sirrRed"
 			
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}	
 		}
 		"GameType"
@@ -1167,7 +1167,7 @@
 			if_mvm
 			{
 				"visible"		"0"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}	
 		}
 		"Assists"
@@ -1186,12 +1186,12 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			
 			if_mvm
 			{
 				"visible"		"0"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}	
 		}
 		"Assists2"
@@ -1210,12 +1210,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}	
 		}
 		"Destruction"
@@ -1234,12 +1234,12 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			
 			if_mvm
 			{
 				"visible"		"0"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}	
 		}
 		"Destruction2"
@@ -1258,12 +1258,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}	
 		}
 		"CapturesLabel"
@@ -1282,12 +1282,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}	
 		}
 		"DefensesLabel"
@@ -1306,12 +1306,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}	
 		}
 		"DominationLabel"
@@ -1330,12 +1330,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}	
 		}
 		"RevengeLabel"
@@ -1354,12 +1354,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}	
 		}
 		"Captures"
@@ -1378,12 +1378,12 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			
 			if_mvm
 			{
 				"visible"		"0"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}	
 		}
 		"Captures2"
@@ -1402,12 +1402,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}	
 		}		
 		"Defenses"
@@ -1426,12 +1426,12 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			
 			if_mvm
 			{
 				"visible"		"0"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}	
 		}
 		"Defenses2"
@@ -1450,12 +1450,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}	
 		}
 		"Domination"
@@ -1474,12 +1474,12 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			
 			if_mvm
 			{
 				"visible"		"0"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}	
 		}
 		"Domination2"
@@ -1498,12 +1498,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}	
 		}
 		"Revenge"
@@ -1522,12 +1522,12 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			
 			if_mvm
 			{
 				"visible"		"0"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}	
 		}
 		"Revenge2"
@@ -1546,12 +1546,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}	
 		}
 		"HealingLabel"
@@ -1570,12 +1570,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}	
 		}
 		"InvulnLabel"
@@ -1594,12 +1594,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}	
 		}
 		"TeleportsLabel"
@@ -1618,12 +1618,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}	
 		}
 		"HeadshotsLabel"
@@ -1642,12 +1642,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}	
 		}
 		"Healing"
@@ -1666,12 +1666,12 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			
 			if_mvm
 			{
 				"visible"		"0"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}	
 		}
 		"Healing2"
@@ -1690,12 +1690,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}	
 		}
 		"Invuln"
@@ -1714,12 +1714,12 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			
 			if_mvm
 			{
 				"visible"		"0"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}	
 		}
 		"Invuln2"
@@ -1738,12 +1738,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}	
 		}
 		"Teleports"
@@ -1762,12 +1762,12 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			
 			if_mvm
 			{
 				"visible"		"0"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}	
 		}
 		"Teleports2"
@@ -1786,12 +1786,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}	
 		}
 		"Headshots"
@@ -1810,12 +1810,12 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			
 			if_mvm
 			{
 				"visible"		"0"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}	
 		}
 		"Headshots2"
@@ -1834,12 +1834,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}	
 		}
 		"BackstabsLabel"
@@ -1858,12 +1858,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}	
 		}
 		"Backstabs"
@@ -1882,12 +1882,12 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			
 			if_mvm
 			{
 				"visible"		"0"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}	
 		}
 		"Backstabs2"
@@ -1906,12 +1906,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}	
 		}
 		"BonusLabel"
@@ -1930,12 +1930,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}	
 		}
 		"Bonus"
@@ -1954,12 +1954,12 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			
 			if_mvm
 			{
 				"visible"		"0"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}	
 		}
 		"Bonus2"
@@ -1978,12 +1978,12 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}	
 		}
 		"SupportLabel"
@@ -2006,7 +2006,7 @@
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}	
 		}
 		"Support"
@@ -2029,7 +2029,7 @@
 			if_mvm
 			{
 				"visible"		"0"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}	
 		}
 		"Support2"
@@ -2052,7 +2052,7 @@
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}	
 		}
 		"DamageLabel"
@@ -2075,7 +2075,7 @@
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}	
 		}
 		"Damage"
@@ -2098,7 +2098,7 @@
 			if_mvm
 			{
 				"visible"		"0"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}
 		}
 		"Damage2"
@@ -2121,7 +2121,7 @@
 			if_mvm
 			{
 				"visible"		"1"
-				"fgcolor"		"ahudBlack"
+				"fgcolor"		"sirrBlack"
 			}
 		}
 	}

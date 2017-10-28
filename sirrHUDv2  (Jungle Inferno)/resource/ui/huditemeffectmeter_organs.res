@@ -48,7 +48,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"NormalCode10"
-		"fgcolor_override"		"ahudWhite"
+		"fgcolor_override"		"sirrWhite"
 	}
 
 	"ItemEffectMeter"
@@ -88,7 +88,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"NormalCode20"
-		"fgcolor"				"ahudWhite"
+		"fgcolor"				"sirrWhite"
 	}
 	"ItemEffectMeterCountBackground"
 	{

@@ -484,13 +484,13 @@
 		
 		"TextFont"		"NormalCode10"
 		
-		"TeamBlue"		"ahudBlue"
-		"TeamRed"		"ahudRed"
+		"TeamBlue"		"sirrBlue"
+		"TeamRed"		"sirrRed"
 		"IconColor"		"White"
 		"LocalPlayerColor"	"Black"
 
 		"BaseBackgroundColor"	"HudBlack"
-		"LocalBackgroundColor"	"ahudWhite"
+		"LocalBackgroundColor"	"sirrWhite"
 	}
 
 	HudVehicle

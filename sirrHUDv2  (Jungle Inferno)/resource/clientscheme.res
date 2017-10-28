@@ -44,12 +44,12 @@ Scheme
 		"8"
 		{
 			"font"	"resource/fonts/weblysleekuisb.ttf"
-			"name"	"Code-Pro-Bold"
+			"name"	"WeblyBold"
 		}
 		"9"
 		{
 			"font"	"resource/fonts/weblysleekuil.ttf"
-			"name"	"Code-Pro-LC"
+			"name"	"Webly"
 		}
 		"10"
 		{

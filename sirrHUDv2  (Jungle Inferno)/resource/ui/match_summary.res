@@ -175,8 +175,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"border"		"ahudDarkBlueTeamBorder"
-			"bgcolor_override"	"ahudBlue"
+			"border"		"sirrDarkBlueTeamBorder"
+			"bgcolor_override"	"sirrBlue"
 		}
 		"BlueTeamScore"
 		{
@@ -305,7 +305,7 @@
 			"tall"			"38"
 			"visible"		"1"
 			"PaintBackgroundType"	"0"
-			"bgcolor_override"	"ahudDarkBlue"
+			"bgcolor_override"	"sirrDarkBlue"
 		}
 		"BlueMedals"
 		{
@@ -480,8 +480,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"border"		"ahudDarkRedTeamBorder"
-			"bgcolor_override"	"ahudRed"
+			"border"		"sirrDarkRedTeamBorder"
+			"bgcolor_override"	"sirrRed"
 		}						
 		"RedTeamScore"
 		{
@@ -611,7 +611,7 @@
 			"tall"			"38"
 			"visible"		"1"
 			"PaintBackgroundType"	"0"
-			"bgcolor_override"	"ahudDarkRed"
+			"bgcolor_override"	"sirrDarkRed"
 		}
 		"RedMedals"
 		{

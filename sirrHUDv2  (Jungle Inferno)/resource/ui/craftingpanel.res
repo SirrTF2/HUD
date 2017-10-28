@@ -16,9 +16,9 @@
 		"tabPosition"	"0"
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"	"ahudDarkGrey"
-		"infocus_bgcolor_override" "ahudDarkGrey"
-		"outoffocus_bgcolor_override" "ahudDarkGrey"
+		"bgcolor_override"	"sirrDarkGrey"
+		"infocus_bgcolor_override" "sirrDarkGrey"
+		"outoffocus_bgcolor_override" "sirrDarkGrey"
 
 		"item_ypos"						"85"
 		"output_item_ypos"				"255"		
@@ -84,7 +84,7 @@
 					"enabled"		"1"
 					"labelText"		"%itemname%"
 					"textAlignment"	"south"
-					"fgcolor"		"ahudWhite"
+					"fgcolor"		"sirrWhite"
 					"wrap"			"1"
 					"centerwrap"	"1"
 				}
@@ -106,11 +106,11 @@
 			"centerwrap"	"0"
 			"textAlignment" "west"
 			"textinsetx"	"0"
-			"defaultFgColor_override" "ahudDullWhite"
+			"defaultFgColor_override" "sirrDullWhite"
 			"defaultBgColor_override" "0 0 0 0"
-			"armedFgColor_override" "ahudWhite"
+			"armedFgColor_override" "sirrWhite"
 			"armedBgColor_override" "0 0 0 0"
-			"depressedFgColor_override" "ahudYellow"
+			"depressedFgColor_override" "sirrYellow"
 			"depressedBgColor_override" "0 0 0 0"
 		}
 		
@@ -156,7 +156,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "ahudWhite"
+		"fgcolor_override" "sirrWhite"
 	}
 	
 	"selectedrecipecontainer"
@@ -187,7 +187,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			"wrap"			"1"
 		}
 		
@@ -207,7 +207,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudDullWhite"
+			"fgcolor"		"sirrDullWhite"
 			"wrap"			"1"
 		}
 	
@@ -227,7 +227,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudDullWhite"
+			"fgcolor"		"sirrDullWhite"
 		}
 		"OutputLabel"
 		{
@@ -245,7 +245,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"ahudDullWhite"
+			"fgcolor"		"sirrDullWhite"
 		}
 		
 		"CraftButton"
@@ -333,7 +333,7 @@
 		"wide"			"280"
 		"tall"			"245"
 		"PaintBackgroundType"	"2"
-		"fgcolor_override"	"ahudDullWhite"
+		"fgcolor_override"	"sirrDullWhite"
 		"bgcolor_override"	"200 187 161 0"
 		"autohide_buttons" "1"
 	}
@@ -430,8 +430,8 @@
 		"tall"			"50"
 		"visible"		"0"
 		"PaintBackgroundType"	"2"
-		"border"		"ahudPanelBorder"
-		"bgcolor_override" "ahudDarkerGrey"
+		"border"		"sirrPanelBorder"
+		"bgcolor_override" "sirrDarkerGrey"
 		
 		"TipLabel"
 		{
@@ -449,7 +449,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"ahudWhite"
+			"fgcolor_override"	"sirrWhite"
 			"wrap"			"1"
 			"centerwrap"	"1"
 		}

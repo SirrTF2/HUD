@@ -26,7 +26,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"PaintBackgroundType" "0"
-			"fgcolor_override"	"ahudWhite"
+			"fgcolor_override"	"sirrWhite"
 			"bgcolor_override"	"100 65 165 255"
 		}
 	}
@@ -67,7 +67,7 @@
 		"armedFgColor_override" "Blank"
 		"depressedFgColor_override" "Blank"
 			
-		"image_drawcolor"	"ahudWhite"
+		"image_drawcolor"	"sirrWhite"
 		"image_armedcolor"	"255 0 0 255"
 		"SubImage"
 		{
@@ -101,7 +101,7 @@
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"0"
-		"fgcolor"		"ahudBlack"
+		"fgcolor"		"sirrBlack"
 	}
 
 	"Stream1"
@@ -205,9 +205,9 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 			
-		"defaultFgColor_override" "ahudWhite"
-		"defaultBgColor_override" "ahudBlack"
-		"armedFgColor_override" "ahudWhite"
-		"depressedFgColor_override" "ahudWhite"
+		"defaultFgColor_override" "sirrWhite"
+		"defaultBgColor_override" "sirrBlack"
+		"armedFgColor_override" "sirrWhite"
+		"depressedFgColor_override" "sirrWhite"
 	}	
 }

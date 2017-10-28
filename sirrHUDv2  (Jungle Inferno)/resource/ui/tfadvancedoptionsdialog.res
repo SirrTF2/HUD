@@ -13,12 +13,12 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"0"
-		"bgcolor_override"		"ahudDarkGrey"
+		"bgcolor_override"		"sirrDarkGrey"
 		"paintbackgroundtype"	"2"
 		"settitlebarvisible"	""
 		"paintborder"			"1"
 		"paintbackground"		"1"
-		"border"				"ahudPanelBorder"
+		"border"				"sirrPanelBorder"
 		
 		"control_w"			"500"
 		"control_h"			"25"
@@ -41,7 +41,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "ahudWhite"
+		"fgcolor_override" "sirrWhite"
 	}
 	"CancelButton"
 	{
@@ -119,8 +119,8 @@
 		"tall"			"50"
 		"visible"		"0"
 		"PaintBackgroundType"	"2"
-		"border"		"ahudPanelBorder"
-		"bgcolor_override"	"ahudDarkerGrey"
+		"border"		"sirrPanelBorder"
+		"bgcolor_override"	"sirrDarkerGrey"
 		
 		"TipLabel"
 		{
@@ -138,7 +138,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"ahudWhite"
+			"fgcolor_override"	"sirrWhite"
 			"wrap"			"1"
 			//"centerwrap"	"1"
 		}

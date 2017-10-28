@@ -96,7 +96,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"sirrWhite"
 	}
 
 	"TextDescriptionLabel"
@@ -132,7 +132,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"sirrWhite"
 	}
 
 	"Stream_URLButton"

@@ -26,7 +26,7 @@
 		"PaintBackgroundType"	"0"
 		"paintbackground"	"1"
 		"border"		"HoAssBorder"
-		"bgcolor_override"	"ahudWhite"
+		"bgcolor_override"	"sirrWhite"
 	}
 	
 	"WaveFailHeaderShadow"
@@ -80,7 +80,7 @@
 		"ypos"			"135"
 		"wide"			"550"
 		"tall"			"30"
-		"fgcolor"		"ahudBlack"
+		"fgcolor"		"sirrBlack"
 	}
 	
 	"CollectionContainer"
@@ -103,7 +103,7 @@
 			"xpos"			"0"
 			"ypos"			"0"
 			"wide"			"140"
-			"fgcolor"		"ahudBlack"
+			"fgcolor"		"sirrBlack"
 		}
 	
 		"CollectedLabel"
@@ -205,7 +205,7 @@
 			"xpos"			"0"
 			"ypos"			"0"
 			"wide"			"195"
-			"fgcolor"		"ahudBlack"
+			"fgcolor"		"sirrBlack"
 		}
 	
 		"YouLabel"
@@ -374,7 +374,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fillcolor"		"ahudDarkGrey"
+			"fillcolor"		"sirrDarkGrey"
 
 			"src_corner_height"	"22"				// pixels inside the image
 			"src_corner_width"	"22"
@@ -393,7 +393,7 @@
 			"xpos"			"0"
 			"ypos"			"5"
 			"wide"			"500"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 		}
 
 		"CptCntnBody"
@@ -466,7 +466,7 @@
 			"ypos"			"60"
 			"wide"			"185"
 			"tall"			"55"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			"wrap"			"1"
 		}
 		
@@ -495,7 +495,7 @@
 			"ypos"			"60"
 			"wide"			"185"
 			"tall"			"55"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			"wrap"			"1"
 		}
 	}

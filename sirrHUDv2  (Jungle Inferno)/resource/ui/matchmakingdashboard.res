@@ -64,7 +64,7 @@
 			"visible"		"1"
 			"PaintBackgroundType"	"2"
 			"border"		"NoBorder"
-			"bgcolor_override"	"ahudDarkGrey"
+			"bgcolor_override"	"sirrDarkGrey"
 			"proportionaltoparent"	"1"
 		}
 
@@ -297,8 +297,8 @@
 				"visible"		"1"
 				"proportionaltoparent"	"1"
 
-				"border"		"ahudPanelBorder"
-				"bgcolor_override"	"ahudDarkGrey"
+				"border"		"sirrPanelBorder"
+				"bgcolor_override"	"sirrDarkGrey"
 			}
 
 			"CTFLogoPanel"
@@ -331,7 +331,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"font"			"HudFontSmallestBold"
-				"fgcolor_override"	"ahudWhite"
+				"fgcolor_override"	"sirrWhite"
 				"textAlignment"	"west"
 				"labelText"		"%queue_state%"
 				"proportionaltoparent"	"1"
@@ -386,7 +386,7 @@
 				"armedFgColor_override" "235 226 202 255"
 				"depressedFgColor_override" "46 43 42 255"
 			
-				"image_drawcolor"	"ahudWhite"
+				"image_drawcolor"	"sirrWhite"
 				"image_armedcolor"	"255 0 0 255"
 				"SubImage"
 				{
@@ -445,8 +445,8 @@
 				"visible"		"1"
 				"proportionaltoparent"	"1"
 
-				"border"		"ahudPanelBorder"
-				"bgcolor_override"	"ahudDarkGrey"
+				"border"		"sirrPanelBorder"
+				"bgcolor_override"	"sirrDarkGrey"
 			}
 
 			"PromptText"

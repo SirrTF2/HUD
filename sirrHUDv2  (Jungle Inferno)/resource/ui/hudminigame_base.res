@@ -11,7 +11,7 @@
 		"tall"			"22"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"ahudBlue"
+		"fillcolor"		"sirrBlue"
 	}
 
 	"LeftSideBG2"
@@ -25,7 +25,7 @@
 		"tall"			"21"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"ahudDarkBlue"
+		"fillcolor"		"sirrDarkBlue"
 	}
 	
 	"RightSideBG"
@@ -39,7 +39,7 @@
 		"tall"			"22"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"ahudRed"
+		"fillcolor"		"sirrRed"
 	}
 	
 	"RightSideBG2"
@@ -53,7 +53,7 @@
 		"tall"			"23"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"ahudDarkRed"
+		"fillcolor"		"sirrDarkRed"
 	}
 		
 	"OutlineBG"
@@ -85,7 +85,7 @@
 		"textAlignment"	"center"	
 		"labelText"		"%bluescore%"
 		"font"			"NormalCode24"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"sirrWhite"
 	}	
 		
 	"BlueScoreShadow"
@@ -119,7 +119,7 @@
 		"textAlignment"	"center"	
 		"labelText"		"%redscore%"
 		"font"			"NormalCode24"
-		"fgcolor"		"ahudWhite"		
+		"fgcolor"		"sirrWhite"		
 	}	
 		
 	"RedScoreShadow"
@@ -155,7 +155,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"NormalCode12"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"sirrWhite"
 	}	
 			
 	"PlayingToBG"

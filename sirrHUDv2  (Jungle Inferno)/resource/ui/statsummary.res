@@ -10,7 +10,7 @@
 		"tall"		"480"
 		"visible"	"1"
 		"enabled"	"1"
-		"bgcolor_override"	"ahudDarkGrey"
+		"bgcolor_override"	"sirrDarkGrey"
 	}
 
 	"MainBackground"
@@ -51,7 +51,7 @@
 		"tall"		"480"
 		"visible"	"0"
 		"enabled"	"1"
-		"bgcolor_override"	"ahudDarkGrey"
+		"bgcolor_override"	"sirrDarkGrey"
 
 		"MainBG"
 		{
@@ -173,7 +173,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "ahudWhite"
+		"fgcolor_override" "sirrWhite"
 	}	
 	"MapLabel"
 	{
@@ -191,7 +191,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "ahudWhite"
+		"fgcolor_override" "sirrWhite"
 	}
 	"MapType"
 	{
@@ -209,7 +209,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "ahudWhite"
+		"fgcolor_override" "sirrWhite"
 	}
 	"StatData"
 	{

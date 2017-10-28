@@ -72,12 +72,12 @@
 		"border_armed"		"NoBorder"
 		"paintbackground"	"1"
 			
-		"defaultFgColor_override" "ahudWhite"
-		"defaultBgColor_override"	"ahudBlack"
-		"armedFgColor_override" "ahudWhite"
-		"armedBgColor_override"	"ahudYellow"
-		"depressedFgColor_override" "ahudWhite"
-		"depressedBgColor_override" "ahudYellow"
+		"defaultFgColor_override" "sirrWhite"
+		"defaultBgColor_override"	"sirrBlack"
+		"armedFgColor_override" "sirrWhite"
+		"armedBgColor_override"	"sirrYellow"
+		"depressedFgColor_override" "sirrWhite"
+		"depressedBgColor_override" "sirrYellow"
 	}
 
 	"PracticeButton"
@@ -114,12 +114,12 @@
 		"border_armed"		"NoBorder"
 		"paintbackground"	"1"
 			
-		"defaultFgColor_override" "ahudWhite"
-		"defaultBgColor_override"	"ahudBlack"
-		"armedFgColor_override" "ahudWhite"
-		"armedBgColor_override"	"ahudYellow"
-		"depressedFgColor_override" "ahudWhite"
-		"depressedBgColor_override" "ahudYellow"
+		"defaultFgColor_override" "sirrWhite"
+		"defaultBgColor_override"	"sirrBlack"
+		"armedFgColor_override" "sirrWhite"
+		"armedBgColor_override"	"sirrYellow"
+		"depressedFgColor_override" "sirrWhite"
+		"depressedBgColor_override" "sirrYellow"
 	}
 
 	"PlayWithFriendsExplanation"
@@ -133,7 +133,7 @@
 		"tall"			"285"
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"1"
-		"border"	"ahudPanelBorder"
+		"border"	"sirrPanelBorder"
 		"bgcolor_override"	"25 25 25 200"
 
 		"PlayWithFriendsExplanationTitle"

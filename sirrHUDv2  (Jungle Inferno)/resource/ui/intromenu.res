@@ -144,7 +144,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"	
-		"fillcolor"		"ahudDarkGrey"
+		"fillcolor"		"sirrDarkGrey"
 		"tileImage"		"1"
 		"PaintBackgroundType"	"0"
 	}		

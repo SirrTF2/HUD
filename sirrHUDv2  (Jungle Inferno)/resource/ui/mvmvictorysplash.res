@@ -22,7 +22,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fillcolor"		"ahudRed"
+			"fillcolor"		"sirrRed"
 		}
 		
 		"SplashLabelShadow"
@@ -50,7 +50,7 @@
 			"ypos"			"12"
 			"wide"			"300"
 			"tall"			"50"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 		}
 	}
 }

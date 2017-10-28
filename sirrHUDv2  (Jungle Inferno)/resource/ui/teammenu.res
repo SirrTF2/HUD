@@ -63,7 +63,7 @@
 		"dulltext"		"0"
 		"brighttext"	"1"
 		"font"			"Code24"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"sirrWhite"
 	}
 
 	"SelectATeamLabel"
@@ -80,7 +80,7 @@
 		"font"			"Code18"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override"	"ahudWhite"
+		"fgcolor_override"	"sirrWhite"
 	}
 	
 	"teambutton0"
@@ -105,9 +105,9 @@
 		"team"				"3"		// team blue
 		"font"			"NormalCode20"
 		"defaultFgColor_override" 	"255 255 255 128"
-		"armedFgColor_override"		"ahudWhite"
+		"armedFgColor_override"		"sirrWhite"
 		"depressedFgColor_override" "255 255 255 128"
-		"selectedFgColor_override" 	"ahudWhite"
+		"selectedFgColor_override" 	"sirrWhite"
 	}
 	
 	"BlueTeamBG"
@@ -121,7 +121,7 @@
 		"tall"			"20"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"ahudBlue"
+		"fillcolor"		"sirrBlue"
 	}
 
 	"BlueTeamBG2"
@@ -135,7 +135,7 @@
 		"tall"			"21"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"ahudDarkBlue"
+		"fillcolor"		"sirrDarkBlue"
 	}	
 
 	"teambutton1"
@@ -160,9 +160,9 @@
 		"team"				"4"		// team red
 		"font"			"NormalCode20"
 		"defaultFgColor_override" 	"255 255 255 128"
-		"armedFgColor_override"		"ahudWhite"
+		"armedFgColor_override"		"sirrWhite"
 		"depressedFgColor_override" "255 255 255 128"
-		"selectedFgColor_override" 	"ahudWhite"
+		"selectedFgColor_override" 	"sirrWhite"
 	}
 	
 	"RedTeamBG"
@@ -176,7 +176,7 @@
 		"tall"			"20"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"ahudRed"
+		"fillcolor"		"sirrRed"
 	}
 	
 	"RedTeamBG2"
@@ -190,7 +190,7 @@
 		"tall"			"21"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"ahudDarkRed"
+		"fillcolor"		"sirrDarkRed"
 	}
 
 	"teambutton2"
@@ -215,9 +215,9 @@
 		"command"		"jointeam auto"
 		"font"			"NormalCode12"
 		"defaultFgColor_override" 	"TanDark"
-		"armedFgColor_override"		"ahudWhite"
+		"armedFgColor_override"		"sirrWhite"
 		"depressedFgColor_override" "TanDark"
-		"selectedFgColor_override" 	"ahudWhite"
+		"selectedFgColor_override" 	"sirrWhite"
 	}
 
 	"teambutton3"
@@ -242,9 +242,9 @@
 		"command"		"jointeam spectate"
 		"font"			"NormalCode12"
 		"defaultFgColor_override" 	"TanDark"
-		"armedFgColor_override"		"ahudWhite"
+		"armedFgColor_override"		"sirrWhite"
 		"depressedFgColor_override" "TanDark"
-		"selectedFgColor_override" 	"ahudWhite"
+		"selectedFgColor_override" 	"sirrWhite"
 	}
 	
 	"teambuttonBG"
@@ -283,9 +283,9 @@
 		"command"		"cancelmenu"
 		"font"			"Code15"
 		"defaultFgColor_override" 	"TanDark"
-		"armedFgColor_override"		"ahudWhite"
+		"armedFgColor_override"		"sirrWhite"
 		"depressedFgColor_override" "TanDark"
-		"selectedFgColor_override" 	"ahudWhite"
+		"selectedFgColor_override" 	"sirrWhite"
 	}
 	
 	"TeamMenuSelect"
@@ -555,7 +555,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"NormalCode12"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"sirrWhite"
 		"centerwrap"	"1"
 	}
 	
@@ -599,7 +599,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"NormalCode12"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"sirrWhite"
 		"centerwrap"	"1"
 	}
 	

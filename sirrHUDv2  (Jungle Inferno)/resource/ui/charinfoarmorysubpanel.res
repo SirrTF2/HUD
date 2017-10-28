@@ -13,11 +13,11 @@
 		"tabPosition"	"0"
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"	"ahudDarkGrey"
-		"infocus_bgcolor_override" "ahudDarkGrey"
-		"outoffocus_bgcolor_override" "ahudDarkGrey"
+		"bgcolor_override"	"sirrDarkGrey"
+		"infocus_bgcolor_override" "sirrDarkGrey"
+		"outoffocus_bgcolor_override" "sirrDarkGrey"
 		
-		"thumbnail_bgcolor"			"ahudGrey"
+		"thumbnail_bgcolor"			"sirrGrey"
 		"thumbnail_bgcolor_mouseover"	"156 146 128 255"
 		"thumbnail_bgcolor_selected"	"176 166 148 255"
 		
@@ -136,21 +136,21 @@
 		"unicode"			"0"
 		
 		"fgcolor_override"	"TanLight"
-		"bgcolor_override"	"ahudBlack"
+		"bgcolor_override"	"sirrBlack"
 		"disabledFgColor_override" "TanLight"
-		"disabledBgColor_override" "ahudBlack"
-		"selectionColor_override" "ahudBlack"
+		"disabledBgColor_override" "sirrBlack"
+		"selectionColor_override" "sirrBlack"
 		"selectionTextColor_override" "TanLight"
-		"defaultSelectionBG2Color_override" "ahudBlack"
+		"defaultSelectionBG2Color_override" "sirrBlack"
 		
 		"Button"
 		{
-			"defaultFgColor_override"	"ahudWhite"
-			"defaultBgColor_override"	"ahudBlack"
-			"selectedFgColor_override"	"ahudBlack"
-			"selectedBgColor_override"	"ahudWhite"
-			"armedFgColor_override"	"ahudBlack"
-			"armedBgColor_override"	"ahudWhite"
+			"defaultFgColor_override"	"sirrWhite"
+			"defaultBgColor_override"	"sirrBlack"
+			"selectedFgColor_override"	"sirrBlack"
+			"selectedBgColor_override"	"sirrWhite"
+			"armedFgColor_override"	"sirrBlack"
+			"armedBgColor_override"	"sirrWhite"
 			"paintbackgroundtype"	"0"
 		}	
 	}

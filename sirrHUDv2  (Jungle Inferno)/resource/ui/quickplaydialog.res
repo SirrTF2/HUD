@@ -34,7 +34,7 @@
 		"tabPosition"		"0"
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"1"
-		"border"				"ahudPanelBorder"
+		"border"				"sirrPanelBorder"
 
 		"Background"
 		{
@@ -49,7 +49,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"0"
-			"bgcolor_override"	"ahudDarkGrey"
+			"bgcolor_override"	"sirrDarkGrey"
 			"proportionalToParent"	"1"
 		}
 
@@ -99,7 +99,7 @@
 				"pinCorner"		"0"
 				"visible"		"1"
 				"enabled"		"1"
-				"fgcolor_override"	"ahudWhite"
+				"fgcolor_override"	"sirrWhite"
 			}
 
 			"MoreInfoButton"
@@ -137,7 +137,7 @@
 				"tall"		"245"
 				"visible"	"1"
 				"enabled"	"1"
-				"fillcolor"				"ahudDarkGrey"
+				"fillcolor"				"sirrDarkGrey"
 
 				"ModeImage"
 				{
@@ -172,7 +172,7 @@
 					"visible"		"1"
 					"enabled"		"1"
 					"mouseinputenabled" "0"
-					"fgcolor_override"	"ahudWhite"
+					"fgcolor_override"	"sirrWhite"
 				}
 
 				"DescLabel"
@@ -191,7 +191,7 @@
 					"pinCorner"		"0"
 					"visible"		"1"
 					"enabled"		"1"
-					"fgcolor_override"	"ahudWhite"
+					"fgcolor_override"	"sirrWhite"
 					"auto_wide_tocontents" "0"
 					"wrap"				   "1"
 					"centerwrap"		   "1"
@@ -237,7 +237,7 @@
 					"tabPosition"		"0"
 					"PaintBackgroundType"	"0"
 					"paintbackground"		"1"
-					"bgcolor_override"				"ahudDarkerGrey"
+					"bgcolor_override"				"sirrDarkerGrey"
 		
 					"Background"
 					{
@@ -252,7 +252,7 @@
 						"visible"		"0"
 						"enabled"		"1"
 						"tabPosition"		"0"
-						"bgcolor_override"	"ahudDarkerGrey"
+						"bgcolor_override"	"sirrDarkerGrey"
 					}
 		
 					"MoreInfoLabel"
@@ -338,7 +338,7 @@
 			"visible"	"0"
 			"enabled"	"1"
 			"border"	"NoBorder"
-			"bgcolor_override"	"ahudBlack"
+			"bgcolor_override"	"sirrBlack"
 
 			"TitleLabel"
 			{
@@ -731,13 +731,13 @@
 
 			"paintbackground"	"1"
 			
-			"defaultFgColor_override" "ahudWhite"
-			"armedFgColor_override" "ahudWhite"
-			"depressedFgColor_override" "ahudWhite"
+			"defaultFgColor_override" "sirrWhite"
+			"armedFgColor_override" "sirrWhite"
+			"depressedFgColor_override" "sirrWhite"
 			
-			"defaultBgColor_override" "ahudBlack"
-			"armedBgColor_override" "ahudYellow"
-			"depressedBgColor_override" "ahudBlack"
+			"defaultBgColor_override" "sirrBlack"
+			"armedBgColor_override" "sirrYellow"
+			"depressedBgColor_override" "sirrBlack"
 		}
 
 		"ShowServersButton"
@@ -766,13 +766,13 @@
 
 			"paintbackground"	"1"
 			
-			"defaultFgColor_override" "ahudWhite"
-			"armedFgColor_override" "ahudWhite"
-			"depressedFgColor_override" "ahudWhite"
+			"defaultFgColor_override" "sirrWhite"
+			"armedFgColor_override" "sirrWhite"
+			"depressedFgColor_override" "sirrWhite"
 			
-			"defaultBgColor_override" "ahudBlack"
-			"armedBgColor_override" "ahudYellow"
-			"depressedBgColor_override" "ahudBlack"
+			"defaultBgColor_override" "sirrBlack"
+			"armedBgColor_override" "sirrYellow"
+			"depressedBgColor_override" "sirrBlack"
 		}
 
 		"OptionsButton"
@@ -802,7 +802,7 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 		
-			"image_drawcolor"	"ahudWhite"
+			"image_drawcolor"	"sirrWhite"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"

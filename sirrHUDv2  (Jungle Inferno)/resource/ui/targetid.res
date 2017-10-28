@@ -51,7 +51,7 @@
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"1"
-		"fillcolor"			"ahudBlue"
+		"fillcolor"			"sirrBlue"
 		
 		"src_corner_height"		"23"				// pixels inside the image
 		"src_corner_width"		"23"
@@ -72,7 +72,7 @@
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"1"
-		"fillcolor"		"ahudRed"
+		"fillcolor"		"sirrRed"
 		
 		"src_corner_height"		"23"				// pixels inside the image
 		"src_corner_width"		"23"
@@ -212,7 +212,7 @@
 			"visible"		"0"
 			"enabled"		"0"
 			"icon"			"obj_status_sentrygun_1"
-			"drawcolor"		"ahudWhite"
+			"drawcolor"		"sirrWhite"
 			"scaleImage"	"1"
 		}
 		"MoveableSymbolIcon"
@@ -227,7 +227,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"image"			"../hud/eng_sel_item_movable"
-			"drawcolor"		"ahudWhite"
+			"drawcolor"		"sirrWhite"
 			"scaleImage"	"1"
 		}
 

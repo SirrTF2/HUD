@@ -3,57 +3,57 @@ Scheme
 	BaseSettings
 	{
 		// vgui_controls color specifications
-		ReplayBrowser.BgColor								"ahudDarkGrey"
+		ReplayBrowser.BgColor								"sirrDarkGrey"
 		ReplayBrowser.Details.TitleEdit.Carat.FgColor		"LightRed"
-		ReplayBrowser.Button.ArmedBgColor					"ahudYellow"
-		ReplayBrowser.Button.DepressedBgColor				"ahudYellow"
+		ReplayBrowser.Button.ArmedBgColor					"sirrYellow"
+		ReplayBrowser.Button.DepressedBgColor				"sirrYellow"
 		ReplayBrowser.CollectionTitle.FgColor				"LightRed"
 		ReplayBrowser.Warning.FgColor						"White"
 		ReplayBrowser.ScrollBar.SliderButton.FgColor		"TransparentYellow"
-		ReplayBrowser.Search.BgColor						"ahudBlack"
-		ReplayBrowser.Search.FgColor						"ahudWhite"
+		ReplayBrowser.Search.BgColor						"sirrBlack"
+		ReplayBrowser.Search.FgColor						"sirrWhite"
 		
-		Replay.RenderDialog.BgColor							"ahudDarkGrey"
+		Replay.RenderDialog.BgColor							"sirrDarkGrey"
 		
 		Econ.Dialog.BgColor									"Blank"
-		Econ.Button.BgColor									"ahudBlack"
-		Econ.Button.FgColor									"ahudWhite"
-		Econ.Button.ArmedBgColor							"ahudYellow"
-		Econ.Button.ArmedFgColor							"ahudWhite"
-		Econ.Button.DepressedBgColor						"ahudYellow"
+		Econ.Button.BgColor									"sirrBlack"
+		Econ.Button.FgColor									"sirrWhite"
+		Econ.Button.ArmedBgColor							"sirrYellow"
+		Econ.Button.ArmedFgColor							"sirrWhite"
+		Econ.Button.DepressedBgColor						"sirrYellow"
 		Econ.Button.DepressedFgColor						"Black"
 		
-		Econ.Button.PresetDefaultColorFg					"ahudWhite"
-		Econ.Button.PresetArmedColorFg						"ahudWhite"
-		Econ.Button.PresetDepressedColorFg					"ahudWhite"
+		Econ.Button.PresetDefaultColorFg					"sirrWhite"
+		Econ.Button.PresetArmedColorFg						"sirrWhite"
+		Econ.Button.PresetDepressedColorFg					"sirrWhite"
 		
-		Econ.Button.PresetDefaultColorBg					"ahudGreen"
-		Econ.Button.PresetArmedColorBg						"ahudGreen"
-		Econ.Button.PresetDepressedColorBg					"ahudYellow"
+		Econ.Button.PresetDefaultColorBg					"sirrGreen"
+		Econ.Button.PresetArmedColorBg						"sirrGreen"
+		Econ.Button.PresetDepressedColorBg					"sirrYellow"
 		
 		Border.Bright					"Blank"		// the lit side of a control
 		Border.Dark						"Black"		// the dark/unlit side of a control
 		Border.Selection				"Gray"			// the additional border color for displaying the default/selected button
 
-		Button.TextColor				"ahudWhite"
-		Button.BgColor					"ahudBlack"
-		Button.ArmedTextColor			"ahudWhite"
-		Button.ArmedBgColor				"ahudYellow"
-		Button.SelectedTextColor		"ahudWhite"
-		Button.SelectedBgColor			"ahudYellow"
+		Button.TextColor				"sirrWhite"
+		Button.BgColor					"sirrBlack"
+		Button.ArmedTextColor			"sirrWhite"
+		Button.ArmedBgColor				"sirrYellow"
+		Button.SelectedTextColor		"sirrWhite"
+		Button.SelectedBgColor			"sirrYellow"
 		Button.DepressedTextColor		"Black"
-		Button.DepressedBgColor			"ahudYellow"
+		Button.DepressedBgColor			"sirrYellow"
 
-		CheckButton.TextColor			"ahudWhite"
-		CheckButton.SelectedTextColor	"ahudWhite"
+		CheckButton.TextColor			"sirrWhite"
+		CheckButton.SelectedTextColor	"sirrWhite"
 		CheckButton.BgColor				"TransparentBlack"
-		CheckButton.Border1  			"ahudWhite" 		// the left checkbutton border
-		CheckButton.Border2  			"ahudWhite"			// the right checkbutton border
-		CheckButton.Check				"ahudWhite"			// color of the check itself
-		CheckButton.HighlightFgColor	"ahudWhite"
+		CheckButton.Border1  			"sirrWhite" 		// the left checkbutton border
+		CheckButton.Border2  			"sirrWhite"			// the right checkbutton border
+		CheckButton.Check				"sirrWhite"			// color of the check itself
+		CheckButton.HighlightFgColor	"sirrWhite"
 		
-		ComboBoxButton.ArrowColor		"ahudWhite"
-		ComboBoxButton.ArmedArrowColor	"ahudWhite"
+		ComboBoxButton.ArrowColor		"sirrWhite"
+		ComboBoxButton.ArmedArrowColor	"sirrWhite"
 		ComboBoxButton.BgColor			"Blank"
 		ComboBoxButton.DisabledBgColor	"Blank"
 
@@ -81,8 +81,8 @@ Scheme
 		GraphPanel.BgColor				"TransparentBlack"
 
 		Label.TextDullColor				"TanDark"
-		Label.TextColor					"ahudWhite"
-		Label.TextBrightColor			"ahudWhite"
+		Label.TextColor					"sirrWhite"
+		Label.TextBrightColor			"sirrWhite"
 		Label.SelectedTextColor			"White"
 		Label.BgColor					"Blank"
 		Label.DisabledFgColor1			"Blank"
@@ -95,10 +95,10 @@ Scheme
 		ListPanel.SelectedOutOfFocusBgColor	"Red"
 		ListPanel.EmptyListInfoTextColor	"Orange"
 
-		Menu.TextColor					"ahudWhite"
+		Menu.TextColor					"sirrWhite"
 		Menu.BgColor					"TransparentBlack"
 		Menu.ArmedTextColor				"TanDark"
-		Menu.ArmedBgColor				"ahudWhite"
+		Menu.ArmedBgColor				"sirrWhite"
 		Menu.TextInset					"6"
 
 		Chat.TypingText					"Orange"
@@ -122,8 +122,8 @@ Scheme
 		PropertySheet.SelectedTextColor	"Orange"
 		PropertySheet.TransitionEffectTime	"0.25"	// time to change from one tab to another
 
-		RadioButton.TextColor			"ahudYellow"
-		RadioButton.SelectedTextColor	"ahudYellow"
+		RadioButton.TextColor			"sirrYellow"
+		RadioButton.SelectedTextColor	"sirrYellow"
 
 		RichText.TextColor				"Gray"
 		RichText.BgColor				"Blank"
@@ -167,7 +167,7 @@ Scheme
 		TextEntry.OutOfFocusSelectedBgColor	"Blank"
 		TextEntry.FocusEdgeColor	"Blank"
 
-		ToggleButton.SelectedTextColor	"ahudYellow"
+		ToggleButton.SelectedTextColor	"sirrYellow"
 
 		Tooltip.TextColor			"TransparentBlack"
 		Tooltip.BgColor				"Red"

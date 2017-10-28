@@ -63,7 +63,7 @@
 		"brighttext"		"0"
 		"wrap"			"0"
 		"font"			"NormalCode10"
-		"fgcolor"			"ahudWhite"
+		"fgcolor"			"sirrWhite"
 		
 		if_match
 		{
@@ -107,7 +107,7 @@
 		"brighttext"		"0"
 		"wrap"			"0"
 		"font"			"NormalCode10"
-		"fgcolor"			"ahudWhite"
+		"fgcolor"			"sirrWhite"
 		
 		if_match
 		{
@@ -151,7 +151,7 @@
 		"brighttext"		"0"
 		"wrap"			"0"
 		"font"			"NormalCode10"
-		"fgcolor"			"ahudWhite"
+		"fgcolor"			"sirrWhite"
 		
 		if_match
 		{
@@ -196,7 +196,7 @@
 		"brighttext"		"0"
 		"wrap"				"0"
 		"font"				"NormalCode10"
-		"fgcolor"			"ahudWhite"
+		"fgcolor"			"sirrWhite"
 		
 		if_match
 		{
@@ -241,7 +241,7 @@
 		"brighttext"	"0"
 		"wrap"			"0"
 		"font"			"NormalCode10"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"sirrWhite"
 		
 		if_match
 		{

@@ -15,7 +15,7 @@
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"1"
-		"bgcolor_override"	"ahudDarkGrey"
+		"bgcolor_override"	"sirrDarkGrey"
 		
 		"BackColor"
     	{
@@ -31,8 +31,8 @@
 			"pinCorner"		"0"
 			"autoResize"	"0"
 			"PaintBackgroundType"	"2"
-			"border"			"ahudPanelBorder"
-			"bgcolor_override"	"ahudDarkGrey"
+			"border"			"sirrPanelBorder"
+			"bgcolor_override"	"sirrDarkGrey"
     	}
 	}
 
@@ -74,7 +74,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "ahudWhite"
+		"fgcolor_override" "sirrWhite"
 	}
 
 	"SectionOneTitleLabel"
@@ -95,7 +95,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
-		"fgcolor_override" "ahudWhite"
+		"fgcolor_override" "sirrWhite"
 	}
 
 	"SectionOneTextLabel"
@@ -116,7 +116,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
-		"fgcolor_override" "ahudDullWhite"
+		"fgcolor_override" "sirrDullWhite"
 	}
 
 	"SectionTwoTitleLabel"
@@ -137,7 +137,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
-		"fgcolor_override" "ahudWhite"
+		"fgcolor_override" "sirrWhite"
 	}
 
 	"SectionTwoTextLabel"
@@ -158,7 +158,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
-		"fgcolor_override" "ahudDullWhite"
+		"fgcolor_override" "sirrDullWhite"
 	}
 
 	"SectionThreeTitleLabel"
@@ -179,7 +179,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
-		"fgcolor_override" "ahudWhite"
+		"fgcolor_override" "sirrWhite"
 	}
 
 	"SectionThreeTextLabel"
@@ -200,7 +200,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
-		"fgcolor_override" "ahudDullWhite"
+		"fgcolor_override" "sirrDullWhite"
 	}
 
 	"SectionFourTitleLabel"
@@ -221,7 +221,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
-		"fgcolor_override" "ahudWhite"
+		"fgcolor_override" "sirrWhite"
 	}
 
 	"SectionFourTextLabel"
@@ -242,7 +242,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
-		"fgcolor_override" "ahudDullWhite"
+		"fgcolor_override" "sirrDullWhite"
 	}
 
 	"SectionFiveTitleLabel"
@@ -263,7 +263,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
-		"fgcolor_override" "ahudWhite"
+		"fgcolor_override" "sirrWhite"
 	}
 
 	"SectionFiveTextLabel"
@@ -284,7 +284,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
-		"fgcolor_override" "ahudDullWhite"
+		"fgcolor_override" "sirrDullWhite"
 	}
 
 	"TakeTourButton"

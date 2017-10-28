@@ -21,7 +21,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"CurrencyLabel"
 		"font"			"NormalCode12"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"sirrWhite"
 		"xpos"			"4"
 		"ypos"			"0"
 		"zpos"			"3"

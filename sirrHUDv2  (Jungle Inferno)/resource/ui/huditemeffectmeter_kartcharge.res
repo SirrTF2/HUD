@@ -9,7 +9,7 @@
 		"ypos"			"c156"
 		"wide"			"500"
 		"tall"			"500"
-		"MeterFG"		"ahudWhite"
+		"MeterFG"		"sirrWhite"
 		"MeterBG"		"Gray"
 	}
 	

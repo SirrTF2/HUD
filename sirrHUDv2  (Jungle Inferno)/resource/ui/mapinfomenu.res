@@ -47,7 +47,7 @@
 		"labelText"		"%mapname%"
 		"textAlignment"	"center"
 		"font"			"Code18"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"sirrWhite"
 	}
 	
 	"MapInfoType"
@@ -66,7 +66,7 @@
 		"labelText"		"%gamemode%"
 		"textAlignment"	"center"
 		"font"			"NormalCode10"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"sirrWhite"
 	}	
 	
 	"MapInfoText"
@@ -85,7 +85,7 @@
 		"enabled"		"0"
 		"paintborder"	"0"
 		"textAlignment"	"center"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"sirrWhite"
 	}
 	
 	"MapImage"
@@ -125,11 +125,11 @@
 		"font"			"Blank"
 		"paintbackground"	"0"
 		
-		"fgcolor"			"ahudWhite"
-		"defaultFgColor_override" "ahudWhite"
+		"fgcolor"			"sirrWhite"
+		"defaultFgColor_override" "sirrWhite"
 		"armedFgColor_override" "0 200 255 255"
 		"depressedFgColor_override" "0 200 255 255"
-		"selectedFgColor_override" "ahudWhite"
+		"selectedFgColor_override" "sirrWhite"
 	}
 
 	"MapInfoContinue2"
@@ -156,9 +156,9 @@
 		
 		"fgcolor"			"TanDark"
 		"defaultFgColor_override" "TanDark"
-		"armedFgColor_override" "ahudWhite"
+		"armedFgColor_override" "sirrWhite"
 		"depressedFgColor_override" "TanDark"
-		"selectedFgColor_override" "ahudWhite"
+		"selectedFgColor_override" "sirrWhite"
 	}
 	
 	"MapInfoWatchIntro"
@@ -183,11 +183,11 @@
 		"font"			"NormalCode12"
 		"paintbackground"	"0"
 		
-		"fgcolor"			"ahudWhite"
-		"defaultFgColor_override" "ahudWhite"
+		"fgcolor"			"sirrWhite"
+		"defaultFgColor_override" "sirrWhite"
 		"armedFgColor_override" "0 200 255 255"
 		"depressedFgColor_override" "0 200 255 255"
-		"selectedFgColor_override" "ahudWhite"
+		"selectedFgColor_override" "sirrWhite"
 	}
 	
 	"MapInfoBack"
@@ -211,11 +211,11 @@
 		"font"			"NormalCode12"
 		"paintbackground"	"0"
 		
-		"fgcolor"			"ahudWhite"
-		"defaultFgColor_override" "ahudWhite"
+		"fgcolor"			"sirrWhite"
+		"defaultFgColor_override" "sirrWhite"
 		"armedFgColor_override" "0 200 255 255"
 		"depressedFgColor_override" "0 200 255 255"
-		"selectedFgColor_override" "ahudWhite"
+		"selectedFgColor_override" "sirrWhite"
 	}
 	
 	"MapInfoBack2"
@@ -241,9 +241,9 @@
 		
 		"fgcolor"			"TanDark"
 		"defaultFgColor_override" "TanDark"
-		"armedFgColor_override" "ahudWhite"
+		"armedFgColor_override" "sirrWhite"
 		"depressedFgColor_override" "TanDark"
-		"selectedFgColor_override" "ahudWhite"
+		"selectedFgColor_override" "sirrWhite"
 	}
 	
 	"MenuBG"

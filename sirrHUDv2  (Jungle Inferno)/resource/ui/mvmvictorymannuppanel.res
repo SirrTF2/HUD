@@ -63,7 +63,7 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 		
-		"image_drawcolor"	"ahudWhite"
+		"image_drawcolor"	"sirrWhite"
 		"Command"		"done"
 	}
 
@@ -95,7 +95,7 @@
 		"enabled"		"1"
 			
 		"PaintBackgroundType" "2"
-		"bgcolor_override"	"ahudDarkGrey"
+		"bgcolor_override"	"sirrDarkGrey"
 	}
 
 	"HeaderLine"
@@ -163,7 +163,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"0"
-			"bgcolor_override"	"ahudDarkGrey"
+			"bgcolor_override"	"sirrDarkGrey"
 			"PaintBackgroundType"	"2"
 			"proportionalToParent"	"1"
 		}
@@ -297,7 +297,7 @@
 				"xpos"			"0"
 				"ypos"			"100"
 				"wide"			"530"
-				"fgcolor"		"ahudWhite"
+				"fgcolor"		"sirrWhite"
 			}
 			
 			"NoItemServerMessage"
@@ -312,7 +312,7 @@
 				"wide"			"530"
 				"tall"			"40"
 				"centerwrap"		"1"
-				"fgcolor"		"ahudWhite"
+				"fgcolor"		"sirrWhite"
 			}
 		}
 	}

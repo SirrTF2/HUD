@@ -27,7 +27,7 @@
 		"labeltext"		"#TF_Matchmaking_HeaderCompetitive"
 		"textAlignment"	"west"
 		"font"			"Code24"
-		"fgcolor_override"	"ahudWhite"
+		"fgcolor_override"	"sirrWhite"
 		
 		"mouseinputenabled"	"0"
 	}

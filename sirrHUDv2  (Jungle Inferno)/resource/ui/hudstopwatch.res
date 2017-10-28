@@ -63,7 +63,7 @@
 			"ControlName"		"CExLabel"
 			"fieldName"		"TimePanelValue"
 			"font"			"NormalCode14"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"3"
@@ -90,7 +90,7 @@
 		"pinCorner"			"0"
 		"visible"			"0"
 		"enabled"			"1"
-		"fgcolor"			"ahudWhite"
+		"fgcolor"			"sirrWhite"
 		
 		if_comp
 		{
@@ -115,7 +115,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"0"
-		"fgcolor"			"ahudWhite"
+		"fgcolor"			"sirrWhite"
 		
 		if_comp
 		{
@@ -141,7 +141,7 @@
 		"visible"			"0"
 		"enabled"			"1"
 		"wrap"				"0"
-		"fgcolor"			"ahudWhite"
+		"fgcolor"			"sirrWhite"
 		
 		if_comp
 		{
@@ -190,6 +190,6 @@
 		"visible"		"0"
 		"enabled"		"0"
 		"wrap"			"0"
-		"fgcolor"			"ahudWhite"
+		"fgcolor"			"sirrWhite"
 	}
 }

@@ -46,7 +46,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"0"
-			"bgcolor_override"	"ahudDarkGrey"
+			"bgcolor_override"	"sirrDarkGrey"
 		}
 
 		"WorkshopBranding"
@@ -77,7 +77,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"0"
-			"bgcolor_override"	"ahudDarkGrey"
+			"bgcolor_override"	"sirrDarkGrey"
 		}
 
 		"NoItemsContainer"
@@ -113,7 +113,7 @@
 				"pinCorner"		"0"
 				"visible"		"1"
 				"enabled"		"1"
-				"fgcolor_override" "ahudWhite"
+				"fgcolor_override" "sirrWhite"
 			}
 
 			"DescLabel"
@@ -133,7 +133,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"wrap"			"1"
-				"fgcolor_override"		"ahudWhite"
+				"fgcolor_override"		"sirrWhite"
 			}
 
 			"LearnMoreButton"
@@ -193,7 +193,7 @@
 				"pinCorner"		"0"
 				"visible"		"1"
 				"enabled"		"1"
-				"fgcolor_override" "ahudWhite"
+				"fgcolor_override" "sirrWhite"
 			}
 			
 			"SteamWorkshopItem0"
@@ -362,8 +362,8 @@
 				"labelText"		"#TF_SteamWorkshop_Edit"
 				"command"		"edit"
 				
-				"image_drawcolor"	"ahudWhite"
-				"image_disabledcolor" "ahudBlack"
+				"image_drawcolor"	"sirrWhite"
+				"image_disabledcolor" "sirrBlack"
 
 				"SubImage"
 				{
@@ -407,8 +407,8 @@
 				"labelText"		"#TF_SteamWorkshop_View"
 				"command"		"view"				
 				
-				"image_drawcolor"	"ahudWhite"
-				"image_disabledcolor" "ahudBlack"
+				"image_drawcolor"	"sirrWhite"
+				"image_disabledcolor" "sirrBlack"
 
 				"SubImage"
 				{
@@ -452,8 +452,8 @@
 				"labelText"		"#TF_SteamWorkshop_Delete"
 				"command"		"delete_item"
 				
-				"image_drawcolor"	"ahudWhite"
-				"image_disabledcolor" "ahudBlack"
+				"image_drawcolor"	"sirrWhite"
+				"image_disabledcolor" "sirrBlack"
 
 				"SubImage"
 				{

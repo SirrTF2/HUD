@@ -24,7 +24,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fillcolor"		"ahudBlue"
+			"fillcolor"		"sirrBlue"
 		}
 		
 		"background2"
@@ -40,7 +40,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fillcolor"		"ahudDarkBlue"
+			"fillcolor"		"sirrDarkBlue"
 		}
 		
 		"count"
@@ -120,7 +120,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fillcolor"		"ahudRed"
+			"fillcolor"		"sirrRed"
 		}
 		
 		"background2"
@@ -136,7 +136,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fillcolor"		"ahudDarkRed"
+			"fillcolor"		"sirrDarkRed"
 		}
 		
 		"count"

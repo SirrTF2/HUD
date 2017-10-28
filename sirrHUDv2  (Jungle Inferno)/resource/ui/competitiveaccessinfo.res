@@ -12,8 +12,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"PaintBackgroundType"	"0"
-		"border"		"ahudPanelBorder"
-		"bgcolor_override"	"ahudDarkerGrey"
+		"border"		"sirrPanelBorder"
+		"bgcolor_override"	"sirrDarkerGrey"
 
 		"TitleLabel"
 		{

@@ -34,8 +34,8 @@
 		"visible"		"1"
 		"PaintBackgroundType" "0"
 		"paintborder"	"1"
-		"border"		"ahudDarkBlueTeamBorder"
-		"bgcolor_override"	"ahudBlue"
+		"border"		"sirrDarkBlueTeamBorder"
+		"bgcolor_override"	"sirrBlue"
 		
 		"WinningTeamLabelDropshadow"
 		{	
@@ -77,7 +77,7 @@
 			"enabled"		"1"
 			"labelText"		"#Winpanel_PVE_Evil_Wins"
 			"textAlignment"		"Center"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 		}
 	}
 	

@@ -9,7 +9,7 @@
 		"ypos"					"170"
 		"wide"					"320"
 		"tall"					"140"
-		"bgcolor_override"		"ahudDarkerGrey"
+		"bgcolor_override"		"sirrDarkerGrey"
 		"paintbackgroundtype"	"0"
 	}
 

@@ -46,7 +46,7 @@
 		"enabled"		"1"
 		"scaleImage"	"1"	
 		"image"			"../signs/death_wheel_whammy"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"sirrWhite"
 	}
 	
 	"ActionText"
@@ -60,7 +60,7 @@
 		"ypos"			"43"
 		"wide"			"100"
 		"tall"			"10"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"sirrWhite"
 		"visible"		"1"
 	}
 	
@@ -108,6 +108,6 @@
 		"ypos_minmode"	"37"
 		"wide"			"20"
 		"tall"			"19"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"sirrWhite"
 	}
 }

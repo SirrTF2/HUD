@@ -49,7 +49,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"NormalCode10"
-		"fgcolor"				"ahudWhite"
+		"fgcolor"				"sirrWhite"
 	}
 	
 	"ItemEffectMeter"

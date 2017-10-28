@@ -5,50 +5,50 @@ Scheme
 		HoAssBorder
 		{
 			"offset" "0 0"
-			"color"	"ahudBlack"
+			"color"	"sirrBlack"
 		}
 		
-		ahudMenuBorder
+		sirrMenuBorder
 		{
 			"inset" "0 0 0 0"
 			Left
 			{
 				"1"
 				{
-					"color" "ahudYellow"
+					"color" "sirrYellow"
 					"offset" "0 0"
 				}
 				"2"
 				{
-					"color" "ahudYellow"
+					"color" "sirrYellow"
 					"offset" "0 0"
 				}
 				"3"
 				{
-					"color" "ahudYellow"
+					"color" "sirrYellow"
 					"offset" "0 0"
 				}
 				"4"
 				{
-					"color" "ahudYellow"
+					"color" "sirrYellow"
 					"offset" "0 0"
 				}
 				"5"
 				{
-					"color" "ahudYellow"
+					"color" "sirrYellow"
 					"offset" "0 0"
 				}
 			}
 		}
 		
-		ahudPanelBorder
+		sirrPanelBorder
 		{
 			"inset" "0 0 0 0"
 			Left
 			{
 				"1"
 				{
-					"color" "ahudBlack"
+					"color" "sirrBlack"
 					"offset" "0 0"
 				}
 			}
@@ -57,7 +57,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudBlack"
+					"color" "sirrBlack"
 					"offset" "0 0"
 				}
 			}
@@ -66,7 +66,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudBlack"
+					"color" "sirrBlack"
 					"offset" "0 0"
 				}
 			}
@@ -75,83 +75,83 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ahudBlack"
+					"color" "sirrBlack"
 					"offset" "0 0"
 				}
 			}
 		}
 		
-		ahudDarkBlueTeamBorder
+		sirrDarkBlueTeamBorder
 		{
 			"inset" "0 0 0 0"
 			Bottom
 			{
 				"1"
 				{
-					"color" "ahudDarkBlue"
+					"color" "sirrDarkBlue"
 					"offset" "0 0"
 				}
 				"2"
 				{
-					"color" "ahudDarkBlue"
+					"color" "sirrDarkBlue"
 					"offset" "0 0"
 				}
 				"3"
 				{
-					"color" "ahudDarkBlue"
+					"color" "sirrDarkBlue"
 					"offset" "0 0"
 				}
 				"4"
 				{
-					"color" "ahudDarkBlue"
+					"color" "sirrDarkBlue"
 					"offset" "0 0"
 				}
 				"5"
 				{
-					"color" "ahudDarkBlue"
+					"color" "sirrDarkBlue"
 					"offset" "0 0"
 				}
 				"6"
 				{
-					"color" "ahudDarkBlue"
+					"color" "sirrDarkBlue"
 					"offset" "0 0"
 				}
 			}
 		}
 		
-		ahudDarkRedTeamBorder
+		sirrDarkRedTeamBorder
 		{
 			"inset" "0 0 0 0"
 			Bottom
 			{
 				"1"
 				{
-					"color" "ahudDarkRed"
+					"color" "sirrDarkRed"
 					"offset" "0 0"
 				}
 				"2"
 				{
-					"color" "ahudDarkRed"
+					"color" "sirrDarkRed"
 					"offset" "0 0"
 				}
 				"3"
 				{
-					"color" "ahudDarkRed"
+					"color" "sirrDarkRed"
 					"offset" "0 0"
 				}
 				"4"
 				{
-					"color" "ahudDarkRed"
+					"color" "sirrDarkRed"
 					"offset" "0 0"
 				}
 				"5"
 				{
-					"color" "ahudDarkRed"
+					"color" "sirrDarkRed"
 					"offset" "0 0"
 				}
 				"6"
 				{
-					"color" "ahudDarkRed"
+					"color" "sirrDarkRed"
 					"offset" "0 0"
 				}
 			}
@@ -704,7 +704,7 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
-			"color"					"ahudGrey"
+			"color"					"sirrGrey"
 			
 			"image"					"backpack_rect_mouseover_color"
 			"src_corner_height"		"24"				// pixels inside the image
@@ -739,7 +739,7 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"0"
-			"color"					"ahudDarkGrey"
+			"color"					"sirrDarkGrey"
 			
 			"image"					"backpack_rect_mouseover_color"
 			"src_corner_height"		"32"				// pixels inside the image
@@ -752,7 +752,7 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
-			"color"					"ahudGrey"
+			"color"					"sirrGrey"
 			
 			"image"					"backpack_rect_color"
 			"src_corner_height"		"24"				// pixels inside the image
@@ -765,7 +765,7 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
-			"color"					"ahudGrey"
+			"color"					"sirrGrey"
 			
 			"image"					"backpack_rect_selected"
 			"src_corner_height"		"24"				// pixels inside the image
@@ -779,7 +779,7 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
-			"color"					"ahudGrey"
+			"color"					"sirrGrey"
 			
 			"image"					"backpack_rect_mouseover_color"
 			"src_corner_height"		"24"				// pixels inside the image

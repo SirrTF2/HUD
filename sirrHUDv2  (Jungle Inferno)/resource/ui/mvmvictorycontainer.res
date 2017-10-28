@@ -35,7 +35,7 @@
 			"tall"			"36"
 			"visible"		"1"
 			"enabled"		"1"
-			"fillcolor"			"ahudRed"
+			"fillcolor"			"sirrRed"
 			"scaleImage"    "1"
 			
 			"src_corner_height"	"40"				// pixels inside the image
@@ -70,7 +70,7 @@
 			"ypos"			"0"
 			"wide"			"530"
 			"tall"			"35"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 		}
 	}
 	

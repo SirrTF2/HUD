@@ -32,7 +32,7 @@
 		"tabPosition"		"0"
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"1"
-		"border"				"ahudPanelBorder"
+		"border"				"sirrPanelBorder"
 
 		"Background"
 		{
@@ -47,7 +47,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"0"
-			"bgcolor_override"	"ahudDarkGrey"
+			"bgcolor_override"	"sirrDarkGrey"
 		}
 
 		"TitleLabel"
@@ -79,8 +79,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"bgcolor_override"	"ahudBlack"
-			"fgcolor_override"	"ahudWhite"
+			"bgcolor_override"	"sirrBlack"
+			"fgcolor_override"	"sirrWhite"
 		}
 
 		"NumServers"
@@ -144,7 +144,7 @@
 		"tabPosition"		"0"
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"1"
-		"border"				"ahudPanelBorder"
+		"border"				"sirrPanelBorder"
 
 		"Background"
 		{
@@ -159,7 +159,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"0"
-			"bgcolor_override"	"ahudDarkGrey"
+			"bgcolor_override"	"sirrDarkGrey"
 		}
 
 		"TitleLabel"
