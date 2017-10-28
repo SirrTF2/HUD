@@ -2881,7 +2881,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Webly Sleek UI Light"
+				"name"		"orca"
 				"tall"		"7"
 				"weight"	"0"
 				"blur"		"3"
@@ -2894,7 +2894,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Webly Sleek UI Light"
+				"name"		"orca"
 				"tall"		"7"
 				"weight"	"400"
 				"additive"	"0"
@@ -2906,7 +2906,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Webly Sleek UI Light"
+				"name"		"orca"
 				"tall"		"10"
 				"weight"	"400"
 				"additive"	"0"
@@ -2918,7 +2918,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Webly Sleek UI Light"
+				"name"		"orca"
 				"tall"		"14"
 				"weight"	"400"
 				"additive"	"0"
@@ -2930,7 +2930,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Webly Sleek UI Light"
+				"name"		"orca"
 				"tall"		"30"
 				"weight"	"400"
 				"additive"	"0"
