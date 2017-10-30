@@ -14,9 +14,9 @@
 		"tabPosition"	"0"
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"	"ahudDarkGrey"
-		"infocus_bgcolor_override" "ahudDarkGrey"
-		"outoffocus_bgcolor_override" "ahudDarkGrey"
+		"bgcolor_override"	"sirrDarkGrey"
+		"infocus_bgcolor_override" "sirrDarkGrey"
+		"outoffocus_bgcolor_override" "sirrDarkGrey"
 		
 		"item_xpos_offcenter_a"	"-310"
 		"item_xpos_offcenter_b"	"165"
@@ -226,22 +226,22 @@
 		"unicode"			"0"
 		"default"			"0"
 		
-		"fgcolor_override"	"ahudWhite"
-		"bgcolor_override"	"ahudBlack"
-		"disabledFgColor_override" "ahudWhite"
-		"disabledBgColor_override" "ahudBlack"
-		"selectionColor_override" "ahudBlack"
-		"selectionTextColor_override" "ahudWhite"
-		"defaultSelectionBG2Color_override" "ahudBlack"
+		"fgcolor_override"	"sirrWhite"
+		"bgcolor_override"	"sirrBlack"
+		"disabledFgColor_override" "sirrWhite"
+		"disabledBgColor_override" "sirrBlack"
+		"selectionColor_override" "sirrBlack"
+		"selectionTextColor_override" "sirrWhite"
+		"defaultSelectionBG2Color_override" "sirrBlack"
 		
 		"Button"
 		{
-			"defaultFgColor_override"	"ahudWhite"
-			"defaultBgColor_override"	"ahudBlack"
-			"selectedFgColor_override"	"ahudBlack"
-			"selectedBgColor_override"	"ahudWhite"
-			"armedFgColor_override"	"ahudBlack"
-			"armedBgColor_override"	"ahudWhite"
+			"defaultFgColor_override"	"sirrWhite"
+			"defaultBgColor_override"	"sirrBlack"
+			"selectedFgColor_override"	"sirrBlack"
+			"selectedBgColor_override"	"sirrWhite"
+			"armedFgColor_override"	"sirrBlack"
+			"armedBgColor_override"	"sirrWhite"
 			"paintbackgroundtype"	"0"
 		}
 	}	
@@ -265,8 +265,8 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		
-		"fgcolor_override"	"ahudWhite"
-		"bgcolor_override"	"ahudBlack"
+		"fgcolor_override"	"sirrWhite"
+		"bgcolor_override"	"sirrBlack"
 	}
 
 	"NameFilterLabel"
@@ -285,7 +285,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"sirrWhite"
 	}
 
 	"NameFilterTextEntry"
@@ -304,8 +304,8 @@
 		"textHidden"		"0"
 		"editable"		"1"
 		"unicode"		"1"
-		"fgcolor_override"	"ahudWhite"
-		"bgcolor_override"	"ahudBlack"
+		"fgcolor_override"	"sirrWhite"
+		"bgcolor_override"	"sirrBlack"
 		"paintbackgroundtype" "2"
 		"font"		"NormalCode10"
 	}
@@ -331,22 +331,22 @@
 		"unicode"			"0"
 		"default"			"0"
 		
-		"fgcolor_override"	"ahudWhite"
-		"bgcolor_override"	"ahudBlack"
-		"disabledFgColor_override" "ahudWhite"
-		"disabledBgColor_override" "ahudBlack"
-		"selectionColor_override" "ahudBlack"
-		"selectionTextColor_override" "ahudWhite"
-		"defaultSelectionBG2Color_override" "ahudBlack"
+		"fgcolor_override"	"sirrWhite"
+		"bgcolor_override"	"sirrBlack"
+		"disabledFgColor_override" "sirrWhite"
+		"disabledBgColor_override" "sirrBlack"
+		"selectionColor_override" "sirrBlack"
+		"selectionTextColor_override" "sirrWhite"
+		"defaultSelectionBG2Color_override" "sirrBlack"
 		
 		"Button"
 		{
-			"defaultFgColor_override"	"ahudWhite"
-			"defaultBgColor_override"	"ahudBlack"
-			"selectedFgColor_override"	"ahudBlack"
-			"selectedBgColor_override"	"ahudWhite"
-			"armedFgColor_override"	"ahudBlack"
-			"armedBgColor_override"	"ahudWhite"
+			"defaultFgColor_override"	"sirrWhite"
+			"defaultBgColor_override"	"sirrBlack"
+			"selectedFgColor_override"	"sirrBlack"
+			"selectedBgColor_override"	"sirrWhite"
+			"armedFgColor_override"	"sirrBlack"
+			"armedBgColor_override"	"sirrWhite"
 			"paintbackgroundtype"	"0"
 		}
 	}	
@@ -460,7 +460,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "ahudBrightYellow"
+		"fgcolor_override" "sirrBrightYellow"
 	}
 	
 	"NextPageButton"
@@ -740,7 +740,7 @@
 			"armedFgColor_override" "200 80 60 255"
 			"depressedFgColor_override" "46 43 42 255"
 			
-			"image_drawcolor"	"ahudWhite"
+			"image_drawcolor"	"sirrWhite"
 			"image_armedcolor"	"255 255 255 255"
 			"SubImage"
 			{
@@ -897,7 +897,7 @@
 			"armedFgColor_override" "200 80 60 255"
 			"depressedFgColor_override" "46 43 42 255"
 			
-			"image_drawcolor"	"ahudWhite"
+			"image_drawcolor"	"sirrWhite"
 			"image_armedcolor"	"255 255 255 255"
 			"SubImage"
 			{
@@ -962,7 +962,7 @@
 			"armedFgColor_override" "200 80 60 255"
 			"depressedFgColor_override" "46 43 42 255"
 			
-			"image_drawcolor"	"ahudWhite"
+			"image_drawcolor"	"sirrWhite"
 			"image_armedcolor"	"255 255 255 255"
 			"SubImage"
 			{
@@ -1119,7 +1119,7 @@
 			"armedFgColor_override" "200 80 60 255"
 			"depressedFgColor_override" "46 43 42 255"
 			
-			"image_drawcolor"	"ahudWhite"
+			"image_drawcolor"	"sirrWhite"
 			"image_armedcolor"	"255 255 255 255"
 			"SubImage"
 			{
@@ -1166,7 +1166,7 @@
 			"armedFgColor_override" "200 80 60 255"
 			"depressedFgColor_override" "46 43 42 255"
 			
-			"image_drawcolor"	"ahudWhite"
+			"image_drawcolor"	"sirrWhite"
 			"image_armedcolor"	"255 255 255 255"
 			"SubImage"
 			{
@@ -1341,7 +1341,7 @@
 			"armedFgColor_override" "200 80 60 255"
 			"depressedFgColor_override" "46 43 42 255"
 			
-			"image_drawcolor"	"ahudWhite"
+			"image_drawcolor"	"sirrWhite"
 			"image_armedcolor"	"255 255 255 255"
 			"SubImage"
 			{
@@ -1388,7 +1388,7 @@
 			"armedFgColor_override" "200 80 60 255"
 			"depressedFgColor_override" "46 43 42 255"
 			
-			"image_drawcolor"	"ahudWhite"
+			"image_drawcolor"	"sirrWhite"
 			"image_armedcolor"	"255 255 255 255"
 			"SubImage"
 			{
@@ -1562,7 +1562,7 @@
 			"armedFgColor_override" "200 80 60 255"
 			"depressedFgColor_override" "46 43 42 255"
 			
-			"image_drawcolor"	"ahudWhite"
+			"image_drawcolor"	"sirrWhite"
 			"image_armedcolor"	"255 255 255 255"
 			"SubImage"
 			{
