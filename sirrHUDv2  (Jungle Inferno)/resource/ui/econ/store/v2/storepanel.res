@@ -25,7 +25,7 @@
 		"titletextinsetY"	"0"
 		"titlebarfgcolor_override"				"200 187 161 255"
 		"titlebardisabledfgcolor_override"		"200 187 161 255"
-		"titlebarbgcolor_override"				"ahudDarkGrey"
+		"titlebarbgcolor_override"				"sirrDarkGrey"
 		
 		"clientinsetx_override"			"0"
 		"sheetinset_bottom"				"40"
@@ -133,15 +133,15 @@
 			"textinsetx"		"6"
 			"textAlignment"		"center"
 			"font"				"Code24"
-			"selectedcolor"		"ahudWhite"
+			"selectedcolor"		"sirrWhite"
 			"unselectedcolor"	"TanDark"	
-			"defaultBgColor_override"	"ahudDarkGrey"
+			"defaultBgColor_override"	"sirrDarkGrey"
 			"paintbackground"	"1"
 			"activeborder_override"	"ButtonDepressedBorder"
 			"normalborder_override" "ButtonDepressedBorder"
 			
 			"armedBgColor_override"		"37 37 37 255"
-			"selectedBgColor_override"	"ahudDarkGrey"
+			"selectedBgColor_override"	"sirrDarkGrey"
 		}
 	}
 	

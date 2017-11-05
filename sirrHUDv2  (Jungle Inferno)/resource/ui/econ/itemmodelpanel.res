@@ -94,7 +94,7 @@
 			"enabled"		"1"
 			"labelText"		"%itemname%"
 			"textAlignment"	"south"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 			"centerwrap"	"1"
 		}
 		"attriblabel"
@@ -134,7 +134,7 @@
 			"labelText"		"#ItemPanelEquipped"
 			"textAlignment"	"center"
 			"fgcolor"		"200 80 60 255"
-			"bgcolor_override"		"ahudBlack"
+			"bgcolor_override"		"sirrBlack"
 			"PaintBackgroundType"	"0"
 		}
 	
@@ -169,7 +169,7 @@
 			"labelText"		""
 			"textAlignment"	"center"
 			"fgcolor"		"200 80 60 255"
-			"bgcolor_override"		"ahudBlack"
+			"bgcolor_override"		"sirrBlack"
 			"PaintBackgroundType"	"0"
 		}
 

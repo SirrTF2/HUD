@@ -16,9 +16,9 @@
 		"tabPosition"	"0"
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"				"ahudDarkGrey"
-		"infocus_bgcolor_override"		"ahudDarkGrey"
-		"outoffocus_bgcolor_override"	"ahudDarkGrey"
+		"bgcolor_override"				"sirrDarkGrey"
+		"infocus_bgcolor_override"		"sirrDarkGrey"
+		"outoffocus_bgcolor_override"	"sirrDarkGrey"
 		
 		"title"			"#CharInfoAndSetup"
 		"title_font"	"HudFontMediumBold"
@@ -26,7 +26,7 @@
 		"titletextinsetY"	"0"
 		"titlebarfgcolor_override"				"200 187 161 255"
 		"titlebardisabledfgcolor_override"		"200 187 161 255"
-		"titlebarbgcolor_override"				"ahudDarkGrey"
+		"titlebarbgcolor_override"				"sirrDarkGrey"
 	}
 	
 	"modelpanel"

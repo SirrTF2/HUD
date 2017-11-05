@@ -9,10 +9,10 @@
 		"ypos"					"105"
 		"wide"					"280"
 		"tall"					"240"
-		"bgcolor_override"		"ahudDarkerGrey"
+		"bgcolor_override"		"sirrDarkerGrey"
 		"paintbackgroundtype"	"0"
 		"settitlebarvisible"	"1"
-		"border"				"ahudPanelBorder"
+		"border"				"sirrPanelBorder"
 	}
 	
 	"TitleLabel"
@@ -86,13 +86,13 @@
 		"NumericInputOnly"	"0"
 		"unicode"			"0"
 		
-		"fgcolor_override"	"ahudWhite"
-		"bgcolor_override"	"ahudBlack"
-		"disabledFgColor_override" "ahudWhite"
-		"disabledBgColor_override" "ahudBlack"
-		"selectionColor_override" "ahudBlack"
-		"selectionTextColor_override" "ahudWhite"
-		"defaultSelectionBG2Color_override" "ahudBlack"
+		"fgcolor_override"	"sirrWhite"
+		"bgcolor_override"	"sirrBlack"
+		"disabledFgColor_override" "sirrWhite"
+		"disabledBgColor_override" "sirrBlack"
+		"selectionColor_override" "sirrBlack"
+		"selectionTextColor_override" "sirrWhite"
+		"defaultSelectionBG2Color_override" "sirrBlack"
 	}
 		
 	"CancelButton"

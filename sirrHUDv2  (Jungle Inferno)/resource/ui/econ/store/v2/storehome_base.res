@@ -15,9 +15,9 @@
 		"tabPosition"	"0"
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"	"ahudDarkGrey"
-		"infocus_bgcolor_override" "ahudDarkGrey"
-		"outoffocus_bgcolor_override" "ahudDarkGrey"
+		"bgcolor_override"	"sirrDarkGrey"
+		"infocus_bgcolor_override" "sirrDarkGrey"
+		"outoffocus_bgcolor_override" "sirrDarkGrey"
 		
 		"item_controls_xoffset"	"2"
 		"item_controls_yoffset"	"2"
@@ -44,7 +44,7 @@
 
 		"item_backdrop_zpos"				"1"
 		
-		"item_panel_bgcolor"			"ahudGrey"
+		"item_panel_bgcolor"			"sirrGrey"
 		"item_panel_bgcolor_mouseover"	"156 146 128 255"
 		"item_panel_bgcolor_selected"	"176 166 148 255"
 		
@@ -193,7 +193,7 @@
 			"autoResize"	"0"
 			"PaintBackgroundType"	"2"
 			"border"			"NoBorder"
-			"bgcolor_override"	"ahudDarkerGrey"
+			"bgcolor_override"	"sirrDarkerGrey"
     	}	
 		
 		"attriblabel"
@@ -333,12 +333,12 @@
 			"font"			"NormalCode14"
 			
 			"fgcolor"	"TanDark"
-			"defaultBgColor_override" "ahudGrey"
+			"defaultBgColor_override" "sirrGrey"
 			"defaultFgColor_override" "TanDark"
-			"armedBgColor_override" "ahudGrey"
-			"armedFgColor_override" "ahudWhite"
-			"selectedBgColor_override" "ahudBlack"
-			"selectedFgColor_override"	"ahudWhite"
+			"armedBgColor_override" "sirrGrey"
+			"armedFgColor_override" "sirrWhite"
+			"selectedBgColor_override" "sirrBlack"
+			"selectedFgColor_override"	"sirrWhite"
 			
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -524,7 +524,7 @@
 		"default"		"1"
 		"Command"		"marketplace"
 		"paintbackground"	"1"
-		"defaultBgColor_override" "ahudBlack"
+		"defaultBgColor_override" "sirrBlack"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}

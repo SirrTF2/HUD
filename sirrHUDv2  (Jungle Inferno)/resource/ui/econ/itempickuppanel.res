@@ -16,9 +16,9 @@
 		"tabPosition"		"0"
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"	"ahudDarkGrey"
-		"infocus_bgcolor_override" "ahudDarkGrey"
-		"outoffocus_bgcolor_override" "ahudDarkGrey"
+		"bgcolor_override"	"sirrDarkGrey"
+		"infocus_bgcolor_override" "sirrDarkGrey"
+		"outoffocus_bgcolor_override" "sirrDarkGrey"
 		
 		"modelpanels_spacing"		"40"
 		"modelpanels_width"			"500"
@@ -30,7 +30,7 @@
 		{
 			"PaintBackgroundType"	"0"
 			"paintborder"			"1"
-			"bgcolor_override"		"ahudGrey"
+			"bgcolor_override"		"sirrGrey"
 			
 			"model_xpos"	"0"
 			"model_center_y"	"1"
@@ -273,8 +273,8 @@
 		"armedBgColor_override" "145 73 59 255"
 		"depressedBgColor_override" "117 107 94 255"
 			
-		"image_drawcolor"	"ahudWhite"		
-		"image_armedcolor"	"ahudWhite"		
+		"image_drawcolor"	"sirrWhite"		
+		"image_armedcolor"	"sirrWhite"		
 		
 		"SubImage"
 		{
@@ -306,7 +306,7 @@
 		"PaintBackgroundType"	"2"
 		"paintbackground"	"1"
 		"border"		""
-		"bgcolor_override"	"ahudDarkerGrey"
+		"bgcolor_override"	"sirrDarkerGrey"
 		
 		"TipLabel"
 		{
@@ -323,7 +323,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"ahudWhite"
+			"fgcolor_override"	"sirrWhite"
 			"wrap"			"1"
 			"centerwrap"	"1"
 		}
@@ -367,7 +367,7 @@
 		"NumericInputOnly"	"0"
 		"unicode"			"0"
 		"wrap"				"0"
-		"fgcolor_override"	"ahudWhite"
+		"fgcolor_override"	"sirrWhite"
 		"bgcolor_override"	"0 0 0 255"
 		"labelText"			"Enter Score Here"
 		"textAlignment"		"center"

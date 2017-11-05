@@ -16,7 +16,7 @@
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"1"
-		"bgcolor_override"	"ahudDarkerGrey"
+		"bgcolor_override"	"sirrDarkerGrey"
 		
 		"BackColor"
     	{
@@ -32,8 +32,8 @@
 			"pinCorner"		"0"
 			"autoResize"	"0"
 			"PaintBackgroundType"	"2"
-			"border"			"ahudPanelBorder"
-			"bgcolor_override"	"ahudDarkerGrey"
+			"border"			"sirrPanelBorder"
+			"bgcolor_override"	"sirrDarkerGrey"
     	}
 	}
 	
@@ -113,8 +113,8 @@
 		"Command"		"cancel"
 		"sound_depressed"			"UI/buttonclick.wav"
 		"sound_released"			"UI/buttonclickrelease.wav"
-		"border_default"			"ahudPanelBorder"
-		"border_armed"				"ahudPanelBorder"
+		"border_default"			"sirrPanelBorder"
+		"border_armed"				"sirrPanelBorder"
 	}		
 
 	"ConfirmButton"

@@ -9,10 +9,10 @@
 		"ypos"					"80"
 		"wide"					"400"
 		"tall"					"300"
-		"bgcolor_override"		"ahudDarkerGrey"
+		"bgcolor_override"		"sirrDarkerGrey"
 		"paintbackgroundtype"	"2"
 		"settitlebarvisible"	""
-		"border"				"ahudPanelBorder"
+		"border"				"sirrPanelBorder"
 		
 		"button_kv"
 		{
@@ -78,7 +78,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "ahudWhite"
+		"fgcolor_override" "sirrWhite"
 	}
 	
 	"PlayerListScroller"
@@ -361,7 +361,7 @@
 			"enabled"		"1"
 			"wrap"			"1"
 			"centerwrap"	"1"
-			"fgcolor_override" "ahudWhite"
+			"fgcolor_override" "sirrWhite"
 		}	
 		
 		"URLFailLabel"
@@ -424,7 +424,7 @@
 			"NumericInputOnly"	"0"
 			"unicode"			"0"
 			"wrap"				"0"
-			"fgcolor_override"	"ahudWhite"
+			"fgcolor_override"	"sirrWhite"
 			"bgcolor_override"	"0 0 0 60"
 			"paintbackgroundtype" "2"
 			"labelText"			""

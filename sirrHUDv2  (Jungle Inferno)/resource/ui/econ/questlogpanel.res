@@ -103,9 +103,9 @@
 		"proportionaltoparent"	"1"
 		"visible"		"1"
 		"enabled"		"1"
-		"border"		"ahudPanelBorder"
+		"border"		"sirrPanelBorder"
 		"paintborder"	"1"
-		"bgcolor_override"	"ahudDarkGrey"
+		"bgcolor_override"	"sirrDarkGrey"
 
 		"UpperLine"
 		{
@@ -144,7 +144,7 @@
 			"enabled"		"1"
 			"wrap"			"0"
 			"proportionaltoparent"	"1"
-			"fgcolor"		"ahudWhite"
+			"fgcolor"		"sirrWhite"
 		}
 
 		"CloseButton"
@@ -179,7 +179,7 @@
 			"armedFgColor_override" "Blank"
 			"depressedFgColor_override" "Blank"
 			
-			"image_drawcolor"	"ahudWhite"
+			"image_drawcolor"	"sirrWhite"
 			"image_armedcolor"	"255 0 0 255"
 			"SubImage"
 			{

@@ -81,8 +81,8 @@
 			"enabled"		"1"
 			"tabPosition"	"0"
 			"paintbackground"	"1"
-			"border"		"ahudPanelBorder"
-			"bgcolor_override"	"ahudDarkGrey"
+			"border"		"sirrPanelBorder"
+			"bgcolor_override"	"sirrDarkGrey"
 
 			"CloseButton"
 			{
@@ -257,12 +257,12 @@
 					
 					if_war_active
 					{
-						"fgcolor_override"	"ahudWhite"
+						"fgcolor_override"	"sirrWhite"
 					}
 
 					if_war_over
 					{
-						"fgcolor_override"	"ahudDullWhite"
+						"fgcolor_override"	"sirrDullWhite"
 					}
 				
 					"paintbackground"	"2"
@@ -638,8 +638,8 @@
 					"tall"			"100"
 					"zpos"			"100"
 					"proportionaltoparent"	"1"
-					"border"		"ahudPanelBorder"
-					"bgcolor_override"	"ahudDarkGrey"
+					"border"		"sirrPanelBorder"
+					"bgcolor_override"	"sirrDarkGrey"
 
 					"ConfirmSelectionContainer"
 					{
@@ -701,12 +701,12 @@
 							"border_armed"		"NoBorder"
 							"paintbackground"	"1"
 				
-							"defaultFgColor_override" "ahudWhite"
-							"armedFgColor_override" "ahudWhite"
-							"depressedFgColor_override" "ahudWhite"
-							"defaultBgColor_override" "ahudBlack"
-							"armedBgColor_override" "ahudYellow"
-							"depressedBgColor_override" "ahudYellow"
+							"defaultFgColor_override" "sirrWhite"
+							"armedFgColor_override" "sirrWhite"
+							"depressedFgColor_override" "sirrWhite"
+							"defaultBgColor_override" "sirrBlack"
+							"armedBgColor_override" "sirrYellow"
+							"depressedBgColor_override" "sirrYellow"
 							"proportionaltoparent"	"1"
 						}
 
@@ -741,12 +741,12 @@
 							"border_armed"		"NoBorder"
 							"paintbackground"	"1"
 				
-							"defaultFgColor_override" "ahudWhite"
-							"armedFgColor_override" "ahudWhite"
-							"depressedFgColor_override" "ahudWhite"
-							"defaultBgColor_override" "ahudBlack"
-							"armedBgColor_override" "ahudYellow"
-							"depressedBgColor_override" "ahudYellow"
+							"defaultFgColor_override" "sirrWhite"
+							"armedFgColor_override" "sirrWhite"
+							"depressedFgColor_override" "sirrWhite"
+							"defaultBgColor_override" "sirrBlack"
+							"armedBgColor_override" "sirrYellow"
+							"depressedBgColor_override" "sirrYellow"
 							"proportionaltoparent"	"1"
 						}
 					}
@@ -855,12 +855,12 @@
 							"border_armed"		"NoBorder"
 							"paintbackground"	"1"
 				
-							"defaultFgColor_override" "ahudWhite"
-							"armedFgColor_override" "ahudWhite"
-							"depressedFgColor_override" "ahudWhite"
-							"defaultBgColor_override" "ahudBlack"
-							"armedBgColor_override" "ahudYellow"
-							"depressedBgColor_override" "ahudYellow"
+							"defaultFgColor_override" "sirrWhite"
+							"armedFgColor_override" "sirrWhite"
+							"depressedFgColor_override" "sirrWhite"
+							"defaultBgColor_override" "sirrBlack"
+							"armedBgColor_override" "sirrYellow"
+							"depressedBgColor_override" "sirrYellow"
 							"proportionaltoparent"	"1"
 						}
 					}
@@ -942,12 +942,12 @@
 							"border_armed"		"NoBorder"
 							"paintbackground"	"1"
 				
-							"defaultFgColor_override" "ahudWhite"
-							"armedFgColor_override" "ahudWhite"
-							"depressedFgColor_override" "ahudWhite"
-							"defaultBgColor_override" "ahudBlack"
-							"armedBgColor_override" "ahudYellow"
-							"depressedBgColor_override" "ahudYellow"
+							"defaultFgColor_override" "sirrWhite"
+							"armedFgColor_override" "sirrWhite"
+							"depressedFgColor_override" "sirrWhite"
+							"defaultBgColor_override" "sirrBlack"
+							"armedBgColor_override" "sirrYellow"
+							"depressedBgColor_override" "sirrYellow"
 							"proportionaltoparent"	"1"
 						}
 					}
@@ -1043,12 +1043,12 @@
 						"border_armed"		"NoBorder"
 						"paintbackground"	"1"
 			
-						"defaultFgColor_override" "ahudWhite"
-						"armedFgColor_override" "ahudWhite"
-						"depressedFgColor_override" "ahudWhite"
-						"defaultBgColor_override" "ahudBlack"
-						"armedBgColor_override" "ahudYellow"
-						"depressedBgColor_override" "ahudYellow"
+						"defaultFgColor_override" "sirrWhite"
+						"armedFgColor_override" "sirrWhite"
+						"depressedFgColor_override" "sirrWhite"
+						"defaultBgColor_override" "sirrBlack"
+						"armedBgColor_override" "sirrYellow"
+						"depressedBgColor_override" "sirrYellow"
 						"proportionaltoparent"	"1"
 					}
 				}
@@ -1095,12 +1095,12 @@
 						"border_armed"		"NoBorder"
 						"paintbackground"	"1"
 			
-						"defaultFgColor_override" "ahudWhite"
-						"armedFgColor_override" "ahudWhite"
-						"depressedFgColor_override" "ahudWhite"
-						"defaultBgColor_override" "ahudBlack"
-						"armedBgColor_override" "ahudYellow"
-						"depressedBgColor_override" "ahudYellow"
+						"defaultFgColor_override" "sirrWhite"
+						"armedFgColor_override" "sirrWhite"
+						"depressedFgColor_override" "sirrWhite"
+						"defaultBgColor_override" "sirrBlack"
+						"armedBgColor_override" "sirrYellow"
+						"depressedBgColor_override" "sirrYellow"
 						
 						"proportionaltoparent"	"1"
 					}

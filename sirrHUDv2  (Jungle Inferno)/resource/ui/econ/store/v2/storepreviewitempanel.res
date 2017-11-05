@@ -42,7 +42,7 @@
 		"Slider"
 		{
 			"PaintBackgroundType"	"0"
-			"fgcolor_override"	"ahudDullWhite"
+			"fgcolor_override"	"sirrDullWhite"
 		}
 		
 		"UpButton"
@@ -93,8 +93,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"paintbackground"	"1"
-		"border"		"ahudPanelBorder"
-		"bgcolor_override"	"ahudDarkGrey"
+		"border"		"sirrPanelBorder"
+		"bgcolor_override"	"sirrDarkGrey"
 		"PaintBorder"	"1"
 		
 		// Background for the player model & item preview panels
@@ -110,8 +110,8 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"paintborder"	"1"
-			"border"		"ahudPanelBorder"
-			"bgcolor_override"	"ahudGrey"
+			"border"		"sirrPanelBorder"
+			"bgcolor_override"	"sirrGrey"
 		}
 		
 		"ItemNameLabel"
@@ -181,7 +181,7 @@
 					"visible"		"1"
 					"enabled"		"1"
 					"wrap"			"1"
-					"fgcolor"		"ahudDullWhite"
+					"fgcolor"		"sirrDullWhite"
 				}		
 				
 				"RestrictionsLabel"
@@ -232,7 +232,7 @@
 					"visible"		"1"
 					"enabled"		"1"
 					"wrap"			"1"
-					"fgcolor"		"ahudDullWhite"
+					"fgcolor"		"sirrDullWhite"
 				}		
 				
 				"UsedByTextLabel"
@@ -265,7 +265,7 @@
 					"visible"		"1"
 					"enabled"		"1"
 					"wrap"			"1"
-					"fgcolor"		"ahudDullWhite"
+					"fgcolor"		"sirrDullWhite"
 				}		
 				
 				"SlotTextLabel"
@@ -367,7 +367,7 @@
 					"visible"		"1"
 					"enabled"		"1"
 					"wrap"			"1"
-					"fgcolor"		"ahudDullWhite"
+					"fgcolor"		"sirrDullWhite"
 				}		
 				
 				"TradableTextLabel"
@@ -400,7 +400,7 @@
 					"visible"		"1"
 					"enabled"		"1"
 					"wrap"			"1"
-					"fgcolor"		"ahudDullWhite"
+					"fgcolor"		"sirrDullWhite"
 				}		
 				
 				"GiftableTextLabel"
@@ -433,7 +433,7 @@
 					"visible"		"1"
 					"enabled"		"1"
 					"wrap"			"1"
-					"fgcolor"		"ahudDullWhite"
+					"fgcolor"		"sirrDullWhite"
 				}		
 				
 				"NameableTextLabel"
@@ -466,7 +466,7 @@
 					"visible"		"1"
 					"enabled"		"1"
 					"wrap"			"1"
-					"fgcolor"		"ahudDullWhite"
+					"fgcolor"		"sirrDullWhite"
 				}		
 				
 				"CraftableTextLabel"
@@ -1468,7 +1468,7 @@
 		"armedFgColor_override" "Blank"
 		"depressedFgColor_override" "Blank"
 		
-		"image_drawcolor"	"ahudWhite"
+		"image_drawcolor"	"sirrWhite"
 		"image_armedcolor"	"255 0 0 255"
 		"SubImage"
 		{
