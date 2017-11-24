@@ -247,7 +247,7 @@
 	{
 		"fieldName" 	"CMainTargetID"
 		"visible" 	"0"
-		"enabled" 	"1"
+		"enabled" 	"0"
 		"xpos"		"c-126"
 		"ypos"		"245"
 		"wide"	 	"200"
@@ -265,9 +265,9 @@
 	{
 		"fieldName" 	"CSpectatorTargetID"
 		"visible" 	"0"
-		"enabled" 	"1"
-		"xpos"		"c-126"
-		"ypos"		"330"
+		"enabled" 	"0"
+		"xpos"		"999999"
+		"ypos"		"999999"
 		"wide"	 	"200"
 		"tall"	 	"50"
 		"priority"	"40"
@@ -277,7 +277,7 @@
 	{
 		"fieldName" 	"CSecondaryTargetID"
 		"visible" 	"0"
-		"enabled" 	"1"
+		"enabled" 	"0"
 		"xpos"		"c-126"
 		"ypos"		"275"
 		"wide"	 	"200"
