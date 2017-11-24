@@ -58,7 +58,7 @@
 				"tall"			  "10"
 				"autoResize"	"0"
 				"pinCorner"		"0"
-				"visible"		  "1"
+				"visible"		  "0"
 				"labelText"		"%playername%"
 				"textAlignment"	"west"
 				"fgcolor"		  "sirrWhite"
